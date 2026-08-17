@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2359_the_haunting_hour_2018",
+  "title": "23:59: The Haunting Hour",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112939326",
+    "imdb": "tt8657692",
+    "tmdb": 546278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
