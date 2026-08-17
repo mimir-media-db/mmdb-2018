@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fitness",
+  "title": "Fitness",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q57389463",
+    "imdb": "tt9066016",
+    "tmdb": 83186
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

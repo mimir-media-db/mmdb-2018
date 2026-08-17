@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_knife_or_death",
+  "title": "Knife or Death",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55012264",
+    "imdb": "tt8817836",
+    "tmdb": 78842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

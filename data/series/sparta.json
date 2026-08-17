@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sparta",
+  "title": "S'parta",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61466383",
+    "imdb": "tt6840106",
+    "tmdb": 81007
+  },
+  "last_updated": "2026-08-17"
+}

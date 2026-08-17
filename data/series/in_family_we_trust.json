@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_family_we_trust",
+  "title": "In Family We Trust",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56425296",
+    "imdb": "tt8929906",
+    "tmdb": 83792
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

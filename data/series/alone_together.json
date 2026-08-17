@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alone_together",
+  "title": "Alone Together",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28443728",
+    "imdb": "tt5615840",
+    "tmdb": 71884
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

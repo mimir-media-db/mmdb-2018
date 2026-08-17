@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_7_days_out",
+  "title": "7 Days Out",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60159278",
+    "imdb": "tt9315990",
+    "tmdb": 85159
+  },
+  "last_updated": "2026-08-17"
+}

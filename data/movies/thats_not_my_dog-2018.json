@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thats_not_my_dog_2018",
+  "title": "That's Not My Dog",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50650012",
+    "imdb": "tt6894872",
+    "tmdb": 509470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

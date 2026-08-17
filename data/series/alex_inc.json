@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alex_inc",
+  "title": "Alex, Inc.",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30325510",
+    "imdb": "tt6466948",
+    "tmdb": 71763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_empire_games",
+  "title": "Empire Games",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104907088",
+    "imdb": "tt8171234",
+    "tmdb": 104270
+  },
+  "last_updated": "2026-08-17"
+}

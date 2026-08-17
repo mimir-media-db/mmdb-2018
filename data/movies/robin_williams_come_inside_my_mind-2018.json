@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robin_williams_come_inside_my_mind_2018",
+  "title": "Robin Williams: Come Inside My Mind",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55552310",
+    "imdb": "tt7689966",
+    "tmdb": 493100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 117
+}

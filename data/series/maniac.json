@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maniac",
+  "title": "Maniac",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q24144688",
+    "imdb": "tt5580146",
+    "tmdb": 73411
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_teacher",
+  "title": "The Teacher",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q56390855",
+    "imdb": "tt8108134",
+    "tmdb": 78159
+  },
+  "last_updated": "2026-08-17"
+}

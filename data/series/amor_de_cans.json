@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_de_cans",
+  "title": "Amor de cans",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q92451975",
+    "imdb": "tt9569482",
+    "tmdb": 248363
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

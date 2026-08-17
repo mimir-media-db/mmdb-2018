@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_duck_town_2018",
+  "title": "Duck Town",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55106019",
+    "imdb": "tt7604572",
+    "tmdb": 451921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

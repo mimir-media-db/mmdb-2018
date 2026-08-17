@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_way_we_were",
+  "title": "The Way We Were",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q53563547",
+    "imdb": "tt7297252",
+    "tmdb": 79421
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

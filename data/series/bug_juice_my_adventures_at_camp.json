@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bug_juice_my_adventures_at_camp",
+  "title": "Bug Juice: My Adventures at Camp",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55606090",
+    "imdb": "tt8693362",
+    "tmdb": 81486
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

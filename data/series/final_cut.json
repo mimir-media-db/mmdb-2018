@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_final_cut",
+  "title": "FINAL CUT",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48753305",
+    "imdb": "tt7667828",
+    "tmdb": 75918
+  },
+  "last_updated": "2026-08-17"
+}

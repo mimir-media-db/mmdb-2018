@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hold_the_sunset",
+  "title": "Hold the Sunset",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q54999797",
+    "imdb": "tt6768634",
+    "tmdb": 76960
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_castaways",
+  "title": "Castaways",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56274388",
+    "imdb": "tt8589128",
+    "tmdb": 81675
+  },
+  "last_updated": "2026-08-17"
+}

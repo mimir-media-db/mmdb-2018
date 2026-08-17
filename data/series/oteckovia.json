@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oteckovia",
+  "title": "Oteckovia",
+  "start_year": 2017,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q37813785",
+    "imdb": "tt8509876",
+    "tmdb": 81772
+  },
+  "last_updated": "2026-08-17"
+}

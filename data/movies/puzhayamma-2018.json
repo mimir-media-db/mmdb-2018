@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puzhayamma_2018",
+  "title": "Puzhayamma",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725798",
+    "imdb": "tt8934946",
+    "tmdb": 846880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

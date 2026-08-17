@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lol_last_one_laughing",
+  "title": "LOL: Last One Laughing",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106393743",
+    "imdb": "tt8783862",
+    "tmdb": 84969
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

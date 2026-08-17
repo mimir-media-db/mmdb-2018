@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cain_at_abel",
+  "title": "Cain at Abel",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56277223",
+    "imdb": "tt9290704",
+    "tmdb": 219726
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

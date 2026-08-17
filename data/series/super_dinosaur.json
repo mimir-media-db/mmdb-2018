@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_dinosaur",
+  "title": "Super Dinosaur",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60746868",
+    "imdb": "tt9078540",
+    "tmdb": 196835
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

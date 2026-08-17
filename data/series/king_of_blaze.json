@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_blaze",
+  "title": "The King of Blaze",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q41641956",
+    "imdb": "tt9413012",
+    "tmdb": 84435
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_car_masters_rust_to_riches",
+  "title": "Car Masters: Rust to Riches",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56706404",
+    "imdb": "tt8893550",
+    "tmdb": 82357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

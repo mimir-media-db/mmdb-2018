@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_britannia",
+  "title": "Britannia",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30460060",
+    "imdb": "tt5932548",
+    "tmdb": 70484
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

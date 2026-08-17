@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crown_of_the_kings",
+  "title": "The Crown of the Kings",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47486698",
+    "imdb": "tt7817856",
+    "tmdb": 77652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 400
+}

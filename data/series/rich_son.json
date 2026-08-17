@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rich_son",
+  "title": "The Rich Son",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47500793",
+    "imdb": "tt8067786",
+    "tmdb": 78295
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

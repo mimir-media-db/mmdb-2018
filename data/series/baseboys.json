@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_baseboys",
+  "title": "BaseBoys",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q54091892",
+    "imdb": "tt7481632",
+    "tmdb": 77253
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

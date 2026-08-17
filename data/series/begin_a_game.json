@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_begin_a_game",
+  "title": "Begin A Game",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60751550"
+  },
+  "last_updated": "2026-08-17"
+}

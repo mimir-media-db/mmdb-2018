@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blank",
+  "title": "Blank",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q53844420",
+    "imdb": "tt8328474",
+    "tmdb": 81634
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

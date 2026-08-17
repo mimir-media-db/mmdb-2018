@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jamsil_2018",
+  "title": "Jamsil",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28700117",
+    "imdb": "tt5896860",
+    "tmdb": 421228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

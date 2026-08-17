@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_death_by_magic",
+  "title": "Death by Magic",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q59385822",
+    "imdb": "tt8887956",
+    "tmdb": 84552
+  },
+  "last_updated": "2026-08-17"
+}

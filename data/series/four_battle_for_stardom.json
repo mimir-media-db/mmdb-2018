@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_four_battle_for_stardom",
+  "title": "The Four: Battle for Stardom",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q43384375",
+    "imdb": "tt7235406",
+    "tmdb": 75757
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

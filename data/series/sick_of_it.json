@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sick_of_it",
+  "title": "Sick of It",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q55633133",
+    "imdb": "tt7604446",
+    "tmdb": 82338
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

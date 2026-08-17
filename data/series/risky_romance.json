@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_risky_romance",
+  "title": "Risky Romance",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q54913119",
+    "imdb": "tt8523020",
+    "tmdb": 80967
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

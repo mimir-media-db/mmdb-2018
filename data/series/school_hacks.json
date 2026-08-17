@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_school_hacks",
+  "title": "School Hacks",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60854197"
+  },
+  "last_updated": "2026-08-17"
+}

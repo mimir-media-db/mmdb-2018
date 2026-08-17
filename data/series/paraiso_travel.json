@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paraiso_travel",
+  "title": "Paraíso Travel",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48791531",
+    "imdb": "tt8956614",
+    "tmdb": 107132
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 72
+}

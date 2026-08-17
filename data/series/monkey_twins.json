@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_monkey_twins",
+  "title": "Monkey Twins",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55196148",
+    "imdb": "tt8507498",
+    "tmdb": 81079
+  },
+  "last_updated": "2026-08-17"
+}

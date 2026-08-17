@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_astitwa_2018",
+  "title": "Astitwa",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411413",
+    "imdb": "tt8852364",
+    "tmdb": 1039924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

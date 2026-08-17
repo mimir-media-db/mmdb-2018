@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benim_adm_osssman_2018",
+  "title": "Benim Adım Osssman",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61077531",
+    "imdb": "tt7995888",
+    "tmdb": 838243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

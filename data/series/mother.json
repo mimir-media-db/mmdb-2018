@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mother",
+  "title": "Mother",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30949692",
+    "imdb": "tt7795226",
+    "tmdb": 76092
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

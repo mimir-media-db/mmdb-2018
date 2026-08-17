@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adele",
+  "title": "Adèle",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60848251",
+    "imdb": "tt7658752",
+    "tmdb": 80362
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

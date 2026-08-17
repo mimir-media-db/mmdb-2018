@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cuerpo_de_elite",
+  "title": "Cuerpo de élite",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47253863",
+    "imdb": "tt7408430",
+    "tmdb": 76903
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_das_boot",
+  "title": "Das Boot",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29000995",
+    "imdb": "tt5830254",
+    "tmdb": 83936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

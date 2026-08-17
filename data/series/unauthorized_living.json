@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unauthorized_living",
+  "title": "Unauthorized Living",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q56319001",
+    "imdb": "tt6970700",
+    "tmdb": 82516
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

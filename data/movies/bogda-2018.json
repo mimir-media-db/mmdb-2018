@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bogda_2018",
+  "title": "Bogda",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56452553",
+    "imdb": "tt6685074",
+    "tmdb": 616232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

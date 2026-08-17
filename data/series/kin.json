@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kin",
+  "title": "Kin",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65063702",
+    "imdb": "tt12422990",
+    "tmdb": 131012
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 854
+}

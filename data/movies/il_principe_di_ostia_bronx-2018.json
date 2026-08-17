@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_principe_di_ostia_bronx_2018",
+  "title": "Il Principe di Ostia Bronx",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55833156",
+    "imdb": "tt7002344",
+    "tmdb": 514301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

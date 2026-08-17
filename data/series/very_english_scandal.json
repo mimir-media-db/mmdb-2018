@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_very_english_scandal",
+  "title": "A Very English Scandal",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30612134",
+    "imdb": "tt6938856",
+    "tmdb": 79299
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

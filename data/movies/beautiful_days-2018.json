@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_days_2018",
+  "title": "Beautiful Days",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55106024",
+    "imdb": "tt8943042",
+    "tmdb": 546487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

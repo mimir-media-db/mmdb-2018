@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dae_jang_geum_is_watching",
+  "title": "Dae Jang Geum Is Watching",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55933403",
+    "imdb": "tt8991586",
+    "tmdb": 82740
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_catfish_mexico",
+  "title": "Catfish México",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60970585",
+    "imdb": "tt8559932",
+    "tmdb": 125756
+  },
+  "last_updated": "2026-08-17"
+}

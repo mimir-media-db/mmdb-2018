@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_13_commandments",
+  "title": "13 Commandments",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q36422936",
+    "imdb": "tt5203748",
+    "tmdb": 75680
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

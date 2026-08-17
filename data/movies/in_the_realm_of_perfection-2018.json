@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_realm_of_perfection_2018",
+  "title": "In the Realm of Perfection",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54165873",
+    "imdb": "tt7966920",
+    "tmdb": 499555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 90
+}

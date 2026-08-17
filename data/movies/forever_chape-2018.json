@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_chape_2018",
+  "title": "Forever Chape",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56055037",
+    "imdb": "tt8788634",
+    "tmdb": 540136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

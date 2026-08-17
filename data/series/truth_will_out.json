@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_truth_will_out",
+  "title": "The Truth Will Out",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56302170",
+    "imdb": "tt8066878",
+    "tmdb": 81802
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

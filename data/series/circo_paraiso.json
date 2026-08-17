@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_circo_paraiso",
+  "title": "Circo Paraíso",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56352238",
+    "imdb": "tt8247224",
+    "tmdb": 82306
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

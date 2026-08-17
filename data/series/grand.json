@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grand",
+  "title": "Grand",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55439619",
+    "imdb": "tt9058120",
+    "tmdb": 85226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 106
+}

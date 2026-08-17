@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dancestory",
+  "title": "Dancestory",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97217194",
+    "imdb": "tt33029607"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 80
+}

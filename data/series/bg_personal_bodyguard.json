@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bg_personal_bodyguard",
+  "title": "BG Personal Bodyguard",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47465132",
+    "imdb": "tt7533478",
+    "tmdb": 77271
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

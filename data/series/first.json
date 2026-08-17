@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_first",
+  "title": "The First",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q46422417",
+    "imdb": "tt7412482",
+    "tmdb": 74159
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

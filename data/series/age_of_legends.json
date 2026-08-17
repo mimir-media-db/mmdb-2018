@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_age_of_legends",
+  "title": "Age of Legends",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39054898",
+    "imdb": "tt8981944",
+    "tmdb": 73182
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_child_of_the_sahara_2018",
+  "title": "The Child of the Sahara",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3203017",
+    "imdb": "tt2239876",
+    "tmdb": 527942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 87
+}

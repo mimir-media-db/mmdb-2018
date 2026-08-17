@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_less_than_evil",
+  "title": "Less Than Evil",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q59122903",
+    "imdb": "tt9143820",
+    "tmdb": 84448
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

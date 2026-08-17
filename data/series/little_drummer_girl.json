@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_drummer_girl",
+  "title": "The Little Drummer Girl",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56229015",
+    "imdb": "tt7598448",
+    "tmdb": 76887
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

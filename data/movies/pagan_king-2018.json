@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pagan_king_2018",
+  "title": "The Pagan King",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26759545",
+    "imdb": "tt6020428",
+    "tmdb": 432165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

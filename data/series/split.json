@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_split",
+  "title": "The Split",
+  "start_year": 2018,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q39070477",
+    "imdb": "tt7631146",
+    "tmdb": 79053
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 20
+}

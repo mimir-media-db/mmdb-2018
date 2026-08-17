@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_idol",
+  "title": "American Idol",
+  "start_year": 2018,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q201052",
+    "imdb": "tt0319931",
+    "tmdb": 3626
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 555
+}

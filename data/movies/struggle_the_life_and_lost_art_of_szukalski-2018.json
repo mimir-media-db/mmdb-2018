@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_struggle_the_life_and_lost_art_of_szukalski_2018",
+  "title": "Struggle: The Life and Lost Art of Szukalski",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60159382",
+    "imdb": "tt9316022",
+    "tmdb": 565255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 115
+}

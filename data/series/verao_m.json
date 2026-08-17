@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_verao_m",
+  "title": "Verão M",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q56351516",
+    "imdb": "tt8666088",
+    "tmdb": 206054
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

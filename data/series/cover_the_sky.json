@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cover_the_sky",
+  "title": "Cover the Sky",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55707641",
+    "tmdb": 196270
+  },
+  "last_updated": "2026-08-17"
+}

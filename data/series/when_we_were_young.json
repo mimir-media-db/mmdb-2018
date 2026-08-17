@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_when_we_were_young",
+  "title": "When We Were Young",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60992192",
+    "imdb": "tt9476284",
+    "tmdb": 84604
+  },
+  "last_updated": "2026-08-17"
+}

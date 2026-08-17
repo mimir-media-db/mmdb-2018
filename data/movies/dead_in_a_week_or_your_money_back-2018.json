@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_in_a_week_or_your_money_back_2018",
+  "title": "Dead in a Week: Or Your Money Back",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56311187",
+    "imdb": "tt3525168",
+    "tmdb": 468219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 90
+}

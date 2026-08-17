@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_familiar_wife",
+  "title": "Familiar Wife",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q52852929",
+    "imdb": "tt8487786",
+    "tmdb": 80741
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

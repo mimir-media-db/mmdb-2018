@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_og",
+  "title": "The Last O.G.",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q30640201",
+    "imdb": "tt5363912",
+    "tmdb": 77485
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

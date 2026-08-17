@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_innocent_man",
+  "title": "The Innocent Man",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q59959985",
+    "imdb": "tt0914376",
+    "tmdb": 84651
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

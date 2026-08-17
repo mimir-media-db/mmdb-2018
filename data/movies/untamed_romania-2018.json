@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_untamed_romania_2018",
+  "title": "Untamed Romania",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61085472",
+    "imdb": "tt8076222",
+    "tmdb": 521772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 92
+}

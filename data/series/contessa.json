@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_contessa",
+  "title": "Contessa",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q46607764",
+    "imdb": "tt8154598",
+    "tmdb": 219422
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

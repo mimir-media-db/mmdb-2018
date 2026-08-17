@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_arendsvlei",
+  "title": "Arendsvlei",
+  "start_year": 2018,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q109237139",
+    "imdb": "tt9248932"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 1096
+}

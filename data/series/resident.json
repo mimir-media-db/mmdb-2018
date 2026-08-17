@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_resident",
+  "title": "The Resident",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q30314867",
+    "imdb": "tt6483832",
+    "tmdb": 74016
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 107
+}

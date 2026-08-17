@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pose",
+  "title": "Pose",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q30603704",
+    "imdb": "tt7562112",
+    "tmdb": 79084
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

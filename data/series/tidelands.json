@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tidelands",
+  "title": "Tidelands",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48797086",
+    "imdb": "tt6898970",
+    "tmdb": 83381
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

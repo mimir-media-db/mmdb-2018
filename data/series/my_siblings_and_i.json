@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_my_siblings_and_i",
+  "title": "My Siblings and I",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113540676"
+  },
+  "last_updated": "2026-08-17"
+}

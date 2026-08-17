@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hang_ups",
+  "title": "Hang Ups",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56277117",
+    "imdb": "tt7411444",
+    "tmdb": 81683
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

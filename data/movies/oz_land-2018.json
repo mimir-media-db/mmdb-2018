@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oz_land_2018",
+  "title": "Oz Land",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57653486",
+    "imdb": "tt8219526",
+    "tmdb": 544610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 105
+}

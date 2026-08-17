@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wind_sculpted_land_2018",
+  "title": "The Wind Sculpted Land",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56670622",
+    "imdb": "tt9060058",
+    "tmdb": 553117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_next_of_kin",
+  "title": "Next of Kin",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95682052",
+    "imdb": "tt7052394",
+    "tmdb": 76179
+  },
+  "last_updated": "2026-08-17"
+}

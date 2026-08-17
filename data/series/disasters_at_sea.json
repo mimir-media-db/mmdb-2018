@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_disasters_at_sea",
+  "title": "Disasters at Sea",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120490628",
+    "imdb": "tt8273006",
+    "tmdb": 88478
+  },
+  "last_updated": "2026-08-17"
+}

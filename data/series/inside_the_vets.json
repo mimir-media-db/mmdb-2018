@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_the_vets",
+  "title": "Inside the Vets",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107144063",
+    "imdb": "tt11854784",
+    "tmdb": 81096
+  },
+  "last_updated": "2026-08-17"
+}

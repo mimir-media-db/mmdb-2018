@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_romanzo_famigliare",
+  "title": "Romanzo famigliare",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47478580",
+    "imdb": "tt6285184",
+    "tmdb": 80599
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

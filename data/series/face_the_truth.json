@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_face_the_truth",
+  "title": "Face the Truth",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q111942871",
+    "imdb": "tt9042160"
+  },
+  "last_updated": "2026-08-17"
+}

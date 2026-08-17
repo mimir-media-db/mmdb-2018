@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mermaid_the_lake_of_the_dead_2018",
+  "title": "Mermaid: The Lake of the Dead",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48600232",
+    "imdb": "tt7162390",
+    "tmdb": 516850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

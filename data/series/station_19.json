@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_station_19",
+  "title": "Station 19",
+  "start_year": 2018,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q47497143",
+    "imdb": "tt7053188",
+    "tmdb": 76773
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 105
+}

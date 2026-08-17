@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_elimi_brakma",
+  "title": "Elimi Bırakma",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60339418",
+    "imdb": "tt8578458",
+    "tmdb": 80229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 59
+}

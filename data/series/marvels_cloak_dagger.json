@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marvels_cloak_dagger",
+  "title": "Marvel's Cloak & Dagger",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q28736747",
+    "imdb": "tt5614844",
+    "tmdb": 66190
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

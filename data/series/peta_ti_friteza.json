@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_peta_ti_friteza",
+  "title": "Peta ti friteza",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q66556889",
+    "imdb": "tt9066662",
+    "tmdb": 82604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 115
+}

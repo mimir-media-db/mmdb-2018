@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sicario_day_of_the_soldado_2018",
+  "title": "Sicario: Day of the Soldado",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27921157",
+    "imdb": "tt5052474",
+    "tmdb": 400535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 122
+}

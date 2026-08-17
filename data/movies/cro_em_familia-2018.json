@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cro_em_familia_2018",
+  "title": "Crô em Família",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56346529",
+    "imdb": "tt7986760",
+    "tmdb": 544946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 110
+}

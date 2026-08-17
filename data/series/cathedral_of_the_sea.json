@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cathedral_of_the_sea",
+  "title": "Cathedral of the Sea",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28517189",
+    "imdb": "tt4944694",
+    "tmdb": 72613
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

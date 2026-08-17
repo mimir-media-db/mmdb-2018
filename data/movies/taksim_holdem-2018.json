@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taksim_holdem_2018",
+  "title": "Taksim Hold'em",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51139769",
+    "imdb": "tt6441120",
+    "tmdb": 517112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 90
+}

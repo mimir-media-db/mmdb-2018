@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harrow",
+  "title": "Harrow",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q48773732",
+    "imdb": "tt7242816",
+    "tmdb": 77947
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

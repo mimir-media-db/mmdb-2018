@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_egenin_hamsisi",
+  "title": "Ege'nin Hamsisi",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q61077670",
+    "imdb": "tt8578422",
+    "tmdb": 80902
+  },
+  "last_updated": "2026-08-17"
+}

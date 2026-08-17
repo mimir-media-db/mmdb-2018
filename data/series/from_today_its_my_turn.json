@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_from_today_its_my_turn",
+  "title": "From Today, It's My Turn",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q110867770",
+    "imdb": "tt8207660",
+    "tmdb": 83119
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

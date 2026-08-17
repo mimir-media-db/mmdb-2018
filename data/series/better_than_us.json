@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_better_than_us",
+  "title": "Better Than Us",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55388754",
+    "imdb": "tt8285216",
+    "tmdb": 84380
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

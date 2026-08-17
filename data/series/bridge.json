@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bridge",
+  "title": "The Bridge",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q28127260",
+    "imdb": "tt9207738",
+    "tmdb": 90428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_neighborhood",
+  "title": "The Neighborhood",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7753382",
+    "imdb": "tt7942794",
+    "tmdb": 81144
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 150
+}

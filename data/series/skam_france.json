@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_skam_france",
+  "title": "Skam France",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47815257",
+    "imdb": "tt7920500",
+    "tmdb": 76880
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 122
+}

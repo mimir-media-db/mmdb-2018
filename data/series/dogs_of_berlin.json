@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dogs_of_berlin",
+  "title": "Dogs of Berlin",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47087923",
+    "imdb": "tt6839788",
+    "tmdb": 76652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

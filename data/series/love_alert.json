@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_alert",
+  "title": "Love Alert",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q58032341",
+    "imdb": "tt9151316",
+    "tmdb": 83440
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

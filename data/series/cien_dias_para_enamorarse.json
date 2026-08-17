@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cien_dias_para_enamorarse",
+  "title": "Cien días para enamorarse",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47092329",
+    "imdb": "tt8534662",
+    "tmdb": 80719
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}

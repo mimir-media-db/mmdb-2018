@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ninja_israel",
+  "title": "Ninja Israel",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55754527",
+    "imdb": "tt27307455",
+    "tmdb": 114679
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 161
+}

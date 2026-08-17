@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_falk",
+  "title": "Falk",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q53666412",
+    "imdb": "tt6288298",
+    "tmdb": 79575
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

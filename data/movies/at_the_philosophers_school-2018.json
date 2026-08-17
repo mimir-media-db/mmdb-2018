@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_philosophers_school_2018",
+  "title": "At the Philosophers’ School",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56303887",
+    "imdb": "tt7379358",
+    "tmdb": 520722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}

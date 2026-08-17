@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_taiwanese_tale_of_two_cities",
+  "title": "A Taiwanese Tale of Two Cities",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48927691",
+    "imdb": "tt8893498",
+    "tmdb": 82110
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_conqueror",
+  "title": "The Conqueror",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q50828579",
+    "imdb": "tt7428834",
+    "tmdb": 78203
+  },
+  "last_updated": "2026-08-17"
+}

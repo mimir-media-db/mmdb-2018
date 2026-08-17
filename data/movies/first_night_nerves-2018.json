@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_night_nerves_2018",
+  "title": "First Night Nerves",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56283569",
+    "imdb": "tt9402530",
+    "tmdb": 517183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}

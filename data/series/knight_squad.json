@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_knight_squad",
+  "title": "Knight Squad",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q47517600",
+    "imdb": "tt6911516",
+    "tmdb": 75419
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

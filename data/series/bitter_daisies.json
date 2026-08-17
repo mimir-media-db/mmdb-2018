@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bitter_daisies",
+  "title": "Bitter Daisies",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q62602841",
+    "imdb": "tt9412454",
+    "tmdb": 88027
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

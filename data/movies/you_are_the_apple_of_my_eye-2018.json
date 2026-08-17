@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_the_apple_of_my_eye_2018",
+  "title": "You Are the Apple of My Eye",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58058644",
+    "imdb": "tt7339938",
+    "tmdb": 527280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

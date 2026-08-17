@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iskander_shadow_of_the_river",
+  "title": "Iskander: Shadow of the River",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48760006",
+    "imdb": "tt7643322",
+    "tmdb": 76643
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

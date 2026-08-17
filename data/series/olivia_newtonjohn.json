@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_olivia_newtonjohn",
+  "title": "Olivia Newton-John",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28224394",
+    "imdb": "tt8426934",
+    "tmdb": 77302
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

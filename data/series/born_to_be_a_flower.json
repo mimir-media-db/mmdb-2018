@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_born_to_be_a_flower",
+  "title": "Born to be a Flower",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55531769",
+    "imdb": "tt8686092",
+    "tmdb": 81446
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_poem_a_day",
+  "title": "A Poem a Day",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47490199",
+    "imdb": "tt8078744",
+    "tmdb": 78060
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

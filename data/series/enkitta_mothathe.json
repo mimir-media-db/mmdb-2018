@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_enkitta_mothathe",
+  "title": "Enkitta Mothathe",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55610918",
+    "imdb": "tt10196078"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

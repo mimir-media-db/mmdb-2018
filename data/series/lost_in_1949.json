@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_in_1949",
+  "title": "Lost In 1949",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55708301",
+    "imdb": "tt8703272",
+    "tmdb": 74794
+  },
+  "last_updated": "2026-08-17"
+}

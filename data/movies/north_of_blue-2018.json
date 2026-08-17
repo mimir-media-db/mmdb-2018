@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_north_of_blue_2018",
+  "title": "North of Blue",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080304",
+    "imdb": "tt7238370",
+    "tmdb": 525400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_birthday",
+  "title": "Happy Birthday",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55122274"
+  },
+  "last_updated": "2026-08-17"
+}

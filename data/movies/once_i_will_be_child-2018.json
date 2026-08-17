@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_i_will_be_child_2018",
+  "title": "Once I Will Be Child",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498457",
+    "imdb": "tt4885700",
+    "tmdb": 616818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 76
+}

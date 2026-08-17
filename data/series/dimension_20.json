@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dimension_20",
+  "title": "Dimension 20",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107360735",
+    "imdb": "tt9646546",
+    "tmdb": 89180
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 22,
+  "total_episodes": 246
+}

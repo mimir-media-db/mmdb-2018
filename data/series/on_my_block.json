@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_on_my_block",
+  "title": "On My Block",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q48804410",
+    "imdb": "tt7879820",
+    "tmdb": 76747
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 38
+}

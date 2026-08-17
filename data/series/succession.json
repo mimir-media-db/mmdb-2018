@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_succession",
+  "title": "Succession",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q30599007",
+    "imdb": "tt7660850",
+    "tmdb": 76331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 39
+}

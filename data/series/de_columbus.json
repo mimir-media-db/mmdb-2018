@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_de_columbus",
+  "title": "De Columbus",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q54798349",
+    "imdb": "tt8548318",
+    "tmdb": 81780
+  },
+  "last_updated": "2026-08-17"
+}

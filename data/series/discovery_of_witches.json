@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_discovery_of_witches",
+  "title": "A Discovery of Witches",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q54999845",
+    "imdb": "tt2177461",
+    "tmdb": 77236
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

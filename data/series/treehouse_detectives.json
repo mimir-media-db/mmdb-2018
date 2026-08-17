@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_treehouse_detectives",
+  "title": "Treehouse Detectives",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q54932271",
+    "imdb": "tt8591984",
+    "tmdb": 80942
+  },
+  "last_updated": "2026-08-17"
+}

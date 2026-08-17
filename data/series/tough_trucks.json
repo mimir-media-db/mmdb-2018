@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tough_trucks",
+  "title": "Tough Trucks",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111192356",
+    "imdb": "tt8949690",
+    "tmdb": 197037
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

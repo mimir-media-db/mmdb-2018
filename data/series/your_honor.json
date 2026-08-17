@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_your_honor",
+  "title": "Your Honor",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q54861525",
+    "imdb": "tt8586046",
+    "tmdb": 80959
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sen_anlat_karadeniz",
+  "title": "Sen Anlat Karadeniz",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q51291066",
+    "imdb": "tt7932896",
+    "tmdb": 77026
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 64
+}

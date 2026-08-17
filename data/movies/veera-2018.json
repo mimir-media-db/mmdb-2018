@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veera_2018",
+  "title": "Veera",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25203801",
+    "imdb": "tt7654674",
+    "tmdb": 411303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

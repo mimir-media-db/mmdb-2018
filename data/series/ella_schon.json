@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ella_schon",
+  "title": "Ella Schön",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98599344",
+    "imdb": "tt7290228",
+    "tmdb": 120567
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

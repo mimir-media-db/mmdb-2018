@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_100_days_my_prince",
+  "title": "100 Days My Prince",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q50059386",
+    "imdb": "tt8199972",
+    "tmdb": 81821
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

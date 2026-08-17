@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_house",
+  "title": "My House",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55641170",
+    "imdb": "tt8372074",
+    "tmdb": 78758
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

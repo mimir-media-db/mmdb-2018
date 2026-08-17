@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pine_gap",
+  "title": "Pine Gap",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48817128",
+    "imdb": "tt7371868",
+    "tmdb": 82469
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

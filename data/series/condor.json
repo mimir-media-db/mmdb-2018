@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_condor",
+  "title": "Condor",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30610485",
+    "imdb": "tt6510950",
+    "tmdb": 71146
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

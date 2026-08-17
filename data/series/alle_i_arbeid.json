@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_alle_i_arbeid",
+  "title": "Alle i arbeid!",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112690162",
+    "imdb": "tt19267356"
+  },
+  "last_updated": "2026-08-17"
+}

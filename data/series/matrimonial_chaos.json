@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_matrimonial_chaos",
+  "title": "Matrimonial Chaos",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56026003",
+    "imdb": "tt8969998",
+    "tmdb": 82412
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

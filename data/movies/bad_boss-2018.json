@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_boss_2018",
+  "title": "Bad Boss",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61091485",
+    "tmdb": 543526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nightflyers",
+  "title": "Nightflyers",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47479683",
+    "imdb": "tt6903284",
+    "tmdb": 78183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nxt_uk",
+  "title": "NXT UK",
+  "start_year": 2017,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q55095897",
+    "imdb": "tt9425798",
+    "tmdb": 83217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 130
+}

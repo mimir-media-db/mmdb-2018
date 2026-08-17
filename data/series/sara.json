@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sara",
+  "title": "Sara",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q48867536",
+    "imdb": "tt7170638",
+    "tmdb": 82901
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

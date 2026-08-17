@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_runner_2018",
+  "title": "Midnight Runner",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56245068",
+    "imdb": "tt6129904",
+    "tmdb": 546546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 92
+}

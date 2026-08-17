@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_seep",
+  "title": "Seep",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q55632804"
+  },
+  "last_updated": "2026-08-17"
+}

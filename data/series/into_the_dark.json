@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_into_the_dark",
+  "title": "Into the Dark",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55614577",
+    "imdb": "tt8427140",
+    "tmdb": 321756
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

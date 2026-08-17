@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ko_banchha_crorepati",
+  "title": "Ko Banchha Crorepati",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56882569",
+    "imdb": "tt8025016",
+    "tmdb": 77445
+  },
+  "last_updated": "2026-08-17"
+}

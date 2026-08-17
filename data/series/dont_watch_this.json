@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_watch_this",
+  "title": "Don't Watch This",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58029785",
+    "imdb": "tt9201996",
+    "tmdb": 83560
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

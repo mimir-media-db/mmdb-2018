@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mpeke_town",
+  "title": "Mpeke Town",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q57078826",
+    "imdb": "tt9089528"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_top_management",
+  "title": "Top Management",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q58666791",
+    "imdb": "tt9284162",
+    "tmdb": 83601
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

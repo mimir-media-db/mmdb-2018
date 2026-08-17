@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oath_2018",
+  "title": "The Oath",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635433",
+    "imdb": "tt7461200",
+    "tmdb": 520596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 93
+}

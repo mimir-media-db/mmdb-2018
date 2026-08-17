@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_2000s",
+  "title": "The 2000s",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55642241",
+    "imdb": "tt8651972",
+    "tmdb": 80446
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

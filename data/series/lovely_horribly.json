@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lovely_horribly",
+  "title": "Lovely Horribly",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q54814049",
+    "imdb": "tt8628658",
+    "tmdb": 81332
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

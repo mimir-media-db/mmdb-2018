@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hurkus_goklerdeki_kahraman_2018",
+  "title": "Hürkuş: Göklerdeki Kahraman",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52241696",
+    "imdb": "tt7550952",
+    "tmdb": 527791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

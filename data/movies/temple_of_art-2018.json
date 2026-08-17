@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_temple_of_art_2018",
+  "title": "Temple of Art",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18154877",
+    "imdb": "tt3890144",
+    "tmdb": 541743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

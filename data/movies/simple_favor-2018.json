@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simple_favor_2018",
+  "title": "A Simple Favor",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39069921",
+    "imdb": "tt7040874",
+    "tmdb": 484247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 117
+}

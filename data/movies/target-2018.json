@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_target_2018",
+  "title": "Target",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56394437",
+    "imdb": "tt8512320",
+    "tmdb": 515875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

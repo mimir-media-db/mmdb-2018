@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anone",
+  "title": "anone",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q46834088",
+    "imdb": "tt7674958",
+    "tmdb": 76037
+  },
+  "last_updated": "2026-08-17"
+}

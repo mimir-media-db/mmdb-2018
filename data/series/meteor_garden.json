@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_meteor_garden",
+  "title": "Meteor Garden",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48862823",
+    "imdb": "tt8690890",
+    "tmdb": 79818
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

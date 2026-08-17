@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_le_jeu",
+  "title": "Le Jeu",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60849150",
+    "imdb": "tt8714782",
+    "tmdb": 81844
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

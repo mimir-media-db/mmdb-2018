@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_of_the_masks",
+  "title": "The Game of the Masks",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61063850",
+    "imdb": "tt26908206"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shor_sharaba_2018",
+  "title": "Shor Sharaba",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080319",
+    "imdb": "tt6548436",
+    "tmdb": 522366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_the_nun_2018",
+  "title": "Curse of the Nun",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59656419",
+    "imdb": "tt6993174",
+    "tmdb": 545612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 80
+}

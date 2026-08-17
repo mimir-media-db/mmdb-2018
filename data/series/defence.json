@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_defence",
+  "title": "The Defence",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q86726060",
+    "imdb": "tt9399222",
+    "tmdb": 85233
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 32
+}

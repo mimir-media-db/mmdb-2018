@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_automata_2018",
+  "title": "Automata",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58815150",
+    "imdb": "tt8339704",
+    "tmdb": 574047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

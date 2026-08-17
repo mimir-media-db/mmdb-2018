@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_age_of_rebellion",
+  "title": "Age of Rebellion",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48901329",
+    "imdb": "tt8931836",
+    "tmdb": 82617
+  },
+  "last_updated": "2026-08-17"
+}

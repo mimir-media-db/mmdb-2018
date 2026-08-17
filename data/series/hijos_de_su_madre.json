@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hijos_de_su_madre",
+  "title": "Hijos de su madre",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63213008",
+    "imdb": "tt8508540",
+    "tmdb": 88468
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 46
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_basketball_fever",
+  "title": "Basketball Fever",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30950649",
+    "imdb": "tt33079372",
+    "tmdb": 88582
+  },
+  "last_updated": "2026-08-17"
+}

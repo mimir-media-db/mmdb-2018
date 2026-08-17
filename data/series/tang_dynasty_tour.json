@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tang_dynasty_tour",
+  "title": "Tang Dynasty Tour",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58795978",
+    "tmdb": 83833
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

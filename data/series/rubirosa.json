@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rubirosa",
+  "title": "Rubirosa",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63199121",
+    "imdb": "tt9381598",
+    "tmdb": 87230
+  },
+  "last_updated": "2026-08-17"
+}

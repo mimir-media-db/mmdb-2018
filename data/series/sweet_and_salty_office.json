@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_and_salty_office",
+  "title": "Sweet and Salty Office",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55728900",
+    "imdb": "tt34422526",
+    "tmdb": 82642
+  },
+  "last_updated": "2026-08-17"
+}

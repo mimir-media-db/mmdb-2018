@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_state_of_happiness",
+  "title": "State of Happiness",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58048835",
+    "imdb": "tt7005636",
+    "tmdb": 83859
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

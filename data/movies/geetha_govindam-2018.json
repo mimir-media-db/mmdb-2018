@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_geetha_govindam_2018",
+  "title": "Geetha Govindam",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55639773",
+    "imdb": "tt8590896",
+    "tmdb": 540468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

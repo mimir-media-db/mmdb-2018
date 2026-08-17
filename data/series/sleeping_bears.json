@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sleeping_bears",
+  "title": "Sleeping bears",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55650000",
+    "imdb": "tt7934408",
+    "tmdb": 81182
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

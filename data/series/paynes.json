@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paynes",
+  "title": "The Paynes",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47525628",
+    "imdb": "tt6482686",
+    "tmdb": 76321
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

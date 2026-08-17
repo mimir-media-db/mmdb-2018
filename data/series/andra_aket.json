@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_andra_aket",
+  "title": "Andra åket",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q70219639",
+    "imdb": "tt7986618",
+    "tmdb": 100768
+  },
+  "last_updated": "2026-08-17"
+}

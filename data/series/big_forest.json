@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_big_forest",
+  "title": "Big Forest",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56573400",
+    "imdb": "tt8884366",
+    "tmdb": 82171
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

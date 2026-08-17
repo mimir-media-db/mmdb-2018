@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_five_points",
+  "title": "Five Points",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48814161",
+    "imdb": "tt7592742",
+    "tmdb": 78636
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

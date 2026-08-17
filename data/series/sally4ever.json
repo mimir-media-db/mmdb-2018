@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sally4ever",
+  "title": "Sally4Ever",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q57531092",
+    "imdb": "tt8358050",
+    "tmdb": 83657
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_campus_12",
+  "title": "Campus 12",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q50826470",
+    "imdb": "tt8943404",
+    "tmdb": 94556
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 155
+}

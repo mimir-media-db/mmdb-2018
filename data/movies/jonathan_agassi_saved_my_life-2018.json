@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jonathan_agassi_saved_my_life_2018",
+  "title": "Jonathan Agassi Saved My Life",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56062328",
+    "imdb": "tt8725518",
+    "tmdb": 550064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 106
+}

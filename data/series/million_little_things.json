@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_million_little_things",
+  "title": "A Million Little Things",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q53765029",
+    "imdb": "tt7608248",
+    "tmdb": 81499
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 87
+}

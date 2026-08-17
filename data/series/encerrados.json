@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_encerrados",
+  "title": "Encerrados",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q57448654",
+    "imdb": "tt9298674",
+    "tmdb": 82433
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

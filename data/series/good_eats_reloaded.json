@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_good_eats_reloaded",
+  "title": "Good Eats: Reloaded",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96213424",
+    "imdb": "tt9135436",
+    "tmdb": 83179
+  },
+  "last_updated": "2026-08-17"
+}

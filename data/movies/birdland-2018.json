@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birdland_2018",
+  "title": "Birdland",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55652970",
+    "imdb": "tt4560926",
+    "tmdb": 500578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 89
+}

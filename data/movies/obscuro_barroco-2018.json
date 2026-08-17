@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_obscuro_barroco_2018",
+  "title": "Obscuro Barroco",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50231384",
+    "imdb": "tt7755520",
+    "tmdb": 493670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mirzapur",
+  "title": "Mirzapur",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58815840",
+    "imdb": "tt6473300",
+    "tmdb": 84105
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

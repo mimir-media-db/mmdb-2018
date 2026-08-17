@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sierra_burgess_is_a_loser_2018",
+  "title": "Sierra Burgess Is a Loser",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463402",
+    "imdb": "tt3120280",
+    "tmdb": 462919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 105
+}

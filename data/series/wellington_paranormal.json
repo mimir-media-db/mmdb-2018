@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wellington_paranormal",
+  "title": "Wellington Paranormal",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55985712",
+    "imdb": "tt6109562",
+    "tmdb": 80475
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

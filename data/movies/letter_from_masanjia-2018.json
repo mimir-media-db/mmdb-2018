@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_from_masanjia_2018",
+  "title": "Letter from Masanjia",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61740816",
+    "imdb": "tt6390580",
+    "tmdb": 515651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 75
+}

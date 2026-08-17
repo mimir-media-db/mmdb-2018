@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miracle",
+  "title": "The Miracle",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48809024",
+    "imdb": "tt7806456",
+    "tmdb": 91253
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

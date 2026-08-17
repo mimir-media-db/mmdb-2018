@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_sports_girls",
+  "title": "Dance Sports Girls",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56759833",
+    "imdb": "tt9214558",
+    "tmdb": 84512
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

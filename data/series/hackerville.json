@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hackerville",
+  "title": "Hackerville",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60036440",
+    "imdb": "tt8129610",
+    "tmdb": 81807
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

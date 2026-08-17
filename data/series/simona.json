@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_simona",
+  "title": "Simona",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q42407330",
+    "imdb": "tt7907966",
+    "tmdb": 79252
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 154
+}

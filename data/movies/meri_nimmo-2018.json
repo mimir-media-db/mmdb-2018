@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meri_nimmo_2018",
+  "title": "Meri Nimmo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55390718",
+    "imdb": "tt7742704",
+    "tmdb": 485096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

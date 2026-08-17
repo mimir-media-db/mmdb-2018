@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_for_humans",
+  "title": "Magic for Humans",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56245763",
+    "imdb": "tt8425308",
+    "tmdb": 81704
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_greyzone",
+  "title": "Greyzone",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q50404888",
+    "imdb": "tt6060992",
+    "tmdb": 77484
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

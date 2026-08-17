@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_goalie_2018",
+  "title": "Holy Goalie",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50369005",
+    "imdb": "tt6197484",
+    "tmdb": 437310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 95
+}

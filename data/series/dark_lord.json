@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_lord",
+  "title": "The Dark Lord",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q56272683",
+    "imdb": "tt9478508",
+    "tmdb": 81558
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

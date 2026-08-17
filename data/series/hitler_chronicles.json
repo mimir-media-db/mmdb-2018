@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hitler_chronicles",
+  "title": "The Hitler Chronicles",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112066751",
+    "imdb": "tt9520184",
+    "tmdb": 83778
+  },
+  "last_updated": "2026-08-17"
+}

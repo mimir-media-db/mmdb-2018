@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_rockets",
+  "title": "We Are Rockets!",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56272443",
+    "imdb": "tt9085332",
+    "tmdb": 81381
+  },
+  "last_updated": "2026-08-17"
+}

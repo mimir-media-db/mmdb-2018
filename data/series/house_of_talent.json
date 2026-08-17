@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_talent",
+  "title": "House of Talent",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q57340565"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hebbet_ramakka_2018",
+  "title": "Hebbet Ramakka",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55390650",
+    "imdb": "tt8396266",
+    "tmdb": 831667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

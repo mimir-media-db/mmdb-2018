@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_distorted_2018",
+  "title": "Distorted",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55609721",
+    "imdb": "tt6143850",
+    "tmdb": 459258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 99
+}

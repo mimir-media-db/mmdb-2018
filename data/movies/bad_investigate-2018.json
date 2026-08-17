@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_investigate_2018",
+  "title": "Bad Investigate",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48879263",
+    "imdb": "tt6610280",
+    "tmdb": 450765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

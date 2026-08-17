@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_kills_2018",
+  "title": "Speed Kills",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60849315",
+    "imdb": "tt6749318",
+    "tmdb": 466411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

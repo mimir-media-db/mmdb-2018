@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_departed",
+  "title": "The Departed",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q55652158",
+    "imdb": "tt10922712",
+    "tmdb": 92050
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

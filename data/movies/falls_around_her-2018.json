@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falls_around_her_2018",
+  "title": "Falls Around Her",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550873",
+    "imdb": "tt8314254",
+    "tmdb": 539895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}

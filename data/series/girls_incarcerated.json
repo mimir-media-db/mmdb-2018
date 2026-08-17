@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_incarcerated",
+  "title": "Girls Incarcerated",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q50366697",
+    "imdb": "tt8092942",
+    "tmdb": 77700
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

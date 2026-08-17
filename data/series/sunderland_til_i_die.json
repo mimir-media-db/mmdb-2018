@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sunderland_til_i_die",
+  "title": "Sunderland 'Til I Die",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q59961097",
+    "imdb": "tt8914684",
+    "tmdb": 84777
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

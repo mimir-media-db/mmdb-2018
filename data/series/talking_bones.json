@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_talking_bones",
+  "title": "Talking Bones",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55697087",
+    "imdb": "tt16806840",
+    "tmdb": 92246
+  },
+  "last_updated": "2026-08-17"
+}

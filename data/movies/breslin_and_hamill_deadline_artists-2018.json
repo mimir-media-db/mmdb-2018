@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breslin_and_hamill_deadline_artists_2018",
+  "title": "Breslin and Hamill: Deadline Artists",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61740801",
+    "imdb": "tt9275202",
+    "tmdb": 543658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_taken_down",
+  "title": "Taken Down",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q84414685",
+    "imdb": "tt8649378",
+    "tmdb": 94101
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

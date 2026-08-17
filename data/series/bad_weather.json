@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_weather",
+  "title": "Bad weather",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q59772989",
+    "imdb": "tt9324910",
+    "tmdb": 88690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

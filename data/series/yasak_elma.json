@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yasak_elma",
+  "title": "Yasak Elma",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q50993123",
+    "imdb": "tt8045936",
+    "tmdb": 52645
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 177
+}

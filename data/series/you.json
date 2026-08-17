@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_you",
+  "title": "You",
+  "start_year": 2018,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q39082126",
+    "imdb": "tt7335184",
+    "tmdb": 78191
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

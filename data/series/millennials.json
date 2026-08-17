@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_millennials",
+  "title": "Millennials",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q56378032",
+    "imdb": "tt10120734",
+    "tmdb": 98547
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 63
+}

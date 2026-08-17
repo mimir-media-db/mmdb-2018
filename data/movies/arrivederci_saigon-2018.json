@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arrivederci_saigon_2018",
+  "title": "Arrivederci Saigon",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61747039",
+    "imdb": "tt8759436",
+    "tmdb": 538600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 80
+}

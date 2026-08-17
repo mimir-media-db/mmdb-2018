@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_never_gone",
+  "title": "Never Gone",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48902599",
+    "imdb": "tt8520442",
+    "tmdb": 84607
+  },
+  "last_updated": "2026-08-17"
+}

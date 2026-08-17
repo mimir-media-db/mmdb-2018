@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_city_and_the_city",
+  "title": "The City and the City",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q54999858",
+    "imdb": "tt7205264",
+    "tmdb": 78317
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

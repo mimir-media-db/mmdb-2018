@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_monte_cristo_haku",
+  "title": "Monte Cristo Haku",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48764271",
+    "imdb": "tt8217122",
+    "tmdb": 79445
+  },
+  "last_updated": "2026-08-17"
+}

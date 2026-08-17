@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oil_fund",
+  "title": "The Oil Fund",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110391338",
+    "imdb": "tt6843994",
+    "tmdb": 102186
+  },
+  "last_updated": "2026-08-17"
+}

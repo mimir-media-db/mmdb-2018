@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_here_to_heart",
+  "title": "Here to Heart",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48908029",
+    "imdb": "tt8791742",
+    "tmdb": 79263
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 46
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saving_the_wildlife",
+  "title": "Saving the Wildlife",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q97323146",
+    "imdb": "tt10070452",
+    "tmdb": 240928
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 80
+}

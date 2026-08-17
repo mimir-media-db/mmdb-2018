@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ageless_gardens",
+  "title": "Ageless Gardens",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125975025",
+    "imdb": "tt7872986"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_amsterdam",
+  "title": "New Amsterdam",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q53582170",
+    "imdb": "tt7817340",
+    "tmdb": 80350
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 89
+}

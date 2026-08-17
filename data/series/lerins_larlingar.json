@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lerins_larlingar",
+  "title": "Lerins lärlingar",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q71292293",
+    "imdb": "tt8047398",
+    "tmdb": 76502
+  },
+  "last_updated": "2026-08-17"
+}

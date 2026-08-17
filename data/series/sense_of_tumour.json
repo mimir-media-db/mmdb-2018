@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sense_of_tumour",
+  "title": "Sense of Tumour",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51359369",
+    "imdb": "tt8106538",
+    "tmdb": 79133
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

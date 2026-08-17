@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spy_kids_mission_critical",
+  "title": "Spy Kids: Mission Critical",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47522558",
+    "imdb": "tt6714408",
+    "tmdb": 78938
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_of_woman_born_2018",
+  "title": "Of Woman Born",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39167794",
+    "imdb": "tt6874188",
+    "tmdb": 551361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

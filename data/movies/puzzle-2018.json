@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puzzle_2018",
+  "title": "Puzzle",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105790",
+    "imdb": "tt10806200",
+    "tmdb": 538290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

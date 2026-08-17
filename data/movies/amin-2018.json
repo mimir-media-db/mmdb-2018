@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amin_2018",
+  "title": "Amin",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51999611",
+    "imdb": "tt7434928",
+    "tmdb": 510641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

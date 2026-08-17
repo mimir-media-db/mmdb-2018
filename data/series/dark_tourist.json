@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_tourist",
+  "title": "Dark Tourist",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55836009",
+    "imdb": "tt8725166",
+    "tmdb": 81002
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

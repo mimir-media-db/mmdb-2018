@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_castle_rock",
+  "title": "Castle Rock",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q28954025",
+    "imdb": "tt6548228",
+    "tmdb": 71116
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

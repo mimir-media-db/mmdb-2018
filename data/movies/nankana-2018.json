@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nankana_2018",
+  "title": "Nankana",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56290036",
+    "imdb": "tt8561556",
+    "tmdb": 534979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

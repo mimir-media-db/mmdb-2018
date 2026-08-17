@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fake_news",
+  "title": "Fake News",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56348598",
+    "imdb": "tt9624468",
+    "tmdb": 83543
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

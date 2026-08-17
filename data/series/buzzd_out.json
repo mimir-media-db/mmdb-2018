@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_buzzd_out",
+  "title": "Buzz'd Out!",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115803117",
+    "imdb": "tt7755334"
+  },
+  "last_updated": "2026-08-17"
+}

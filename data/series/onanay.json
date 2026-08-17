@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_onanay",
+  "title": "Onanay",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q54622045",
+    "imdb": "tt8791490",
+    "tmdb": 87137
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 160
+}

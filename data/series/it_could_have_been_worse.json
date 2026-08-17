@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_it_could_have_been_worse",
+  "title": "It Could Have Been Worse",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q110051764",
+    "imdb": "tt9040904",
+    "tmdb": 83554
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

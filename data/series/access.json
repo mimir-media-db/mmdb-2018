@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_access",
+  "title": "Access",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55595341",
+    "imdb": "tt8139156",
+    "tmdb": 83826
+  },
+  "last_updated": "2026-08-17"
+}

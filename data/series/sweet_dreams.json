@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_dreams",
+  "title": "Sweet Dreams",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48929580",
+    "imdb": "tt8932678",
+    "tmdb": 80374
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

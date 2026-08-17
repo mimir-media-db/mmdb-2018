@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_marquees_lights_go_out_2018",
+  "title": "When the Marquee's Lights Go Out",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51882903",
+    "imdb": "tt10140592",
+    "tmdb": 519134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 86
+}

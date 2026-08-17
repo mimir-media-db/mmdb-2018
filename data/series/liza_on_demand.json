@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_liza_on_demand",
+  "title": "Liza on Demand",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q48816327",
+    "imdb": "tt7942804",
+    "tmdb": 80604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lifeboat_2018",
+  "title": "Lifeboat",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32933248",
+    "imdb": "tt8346454",
+    "tmdb": 505942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superjuffie_2018",
+  "title": "Superjuffie",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58428196",
+    "imdb": "tt4600558",
+    "tmdb": 516698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

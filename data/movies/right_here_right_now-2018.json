@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_right_here_right_now_2018",
+  "title": "Right Here Right Now",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56081478",
+    "imdb": "tt6175086",
+    "tmdb": 423189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_02",
+  "title": "철수씨와 02",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55734813",
+    "tmdb": 77151
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_na_granici",
+  "title": "Na granici",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56677732",
+    "imdb": "tt8802084",
+    "tmdb": 86846
+  },
+  "last_updated": "2026-08-17"
+}

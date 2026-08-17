@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_phir_bhag_jayegi_2018",
+  "title": "Happy Phir Bhag Jayegi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080288",
+    "imdb": "tt7881542",
+    "tmdb": 538112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

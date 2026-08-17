@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mcmafia",
+  "title": "McMafia",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30641164",
+    "imdb": "tt6271042",
+    "tmdb": 75666
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

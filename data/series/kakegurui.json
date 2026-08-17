@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kakegurui",
+  "title": "Kakegurui",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q75197495",
+    "imdb": "tt7691766",
+    "tmdb": 76409
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

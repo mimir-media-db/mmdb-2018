@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_izakaya_bottakuri",
+  "title": "Izakaya Bottakuri",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55524679",
+    "imdb": "tt13996838",
+    "tmdb": 118978
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

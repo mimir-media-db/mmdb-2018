@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_im_a_mother_too",
+  "title": "I'm a Mother, Too",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q52146005",
+    "imdb": "tt8484236",
+    "tmdb": 79875
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mosaic",
+  "title": "Mosaic",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q43541058",
+    "imdb": "tt5056958",
+    "tmdb": 75944
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

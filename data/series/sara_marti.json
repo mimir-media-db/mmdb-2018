@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sara_marti",
+  "title": "Sara + Marti",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q47530398",
+    "imdb": "tt9556512",
+    "tmdb": 86633
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 60
+}

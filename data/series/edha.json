@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_edha",
+  "title": "Edha",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47499876",
+    "imdb": "tt7956274",
+    "tmdb": 78087
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

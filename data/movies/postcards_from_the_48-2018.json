@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_postcards_from_the_48_2018",
+  "title": "Postcards from the 48%",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56276823",
+    "imdb": "tt6290122",
+    "tmdb": 511457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

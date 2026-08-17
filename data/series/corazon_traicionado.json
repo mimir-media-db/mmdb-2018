@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_traicionado",
+  "title": "Corazón traicionado",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21439903",
+    "imdb": "tt6081274",
+    "tmdb": 107081
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

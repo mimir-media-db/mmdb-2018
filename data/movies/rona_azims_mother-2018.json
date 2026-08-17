@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rona_azims_mother_2018",
+  "title": "Rona, Azim's Mother",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57174606",
+    "imdb": "tt9094134",
+    "tmdb": 552876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

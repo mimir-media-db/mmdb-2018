@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_indian_railway_journeys",
+  "title": "Great Indian Railway Journeys",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30647207",
+    "imdb": "tt8139666",
+    "tmdb": 78572
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

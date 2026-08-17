@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prijela_pout",
+  "title": "Prijela pout",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q102389829",
+    "imdb": "tt9116558",
+    "tmdb": 83056
+  },
+  "last_updated": "2026-08-17"
+}

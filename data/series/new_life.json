@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_new_life",
+  "title": "A New Life",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56880928",
+    "imdb": "tt28239077"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

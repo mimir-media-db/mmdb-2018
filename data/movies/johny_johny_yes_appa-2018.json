@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_johny_johny_yes_appa_2018",
+  "title": "Johny Johny Yes Appa",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737748",
+    "imdb": "tt8635076",
+    "tmdb": 547354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

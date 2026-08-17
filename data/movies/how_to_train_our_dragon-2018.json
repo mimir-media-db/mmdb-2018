@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_train_our_dragon_2018",
+  "title": "How To Train Our Dragon",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55696693",
+    "imdb": "tt9249158",
+    "tmdb": 562199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

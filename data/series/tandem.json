@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tandem",
+  "title": "Tandem",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48817403",
+    "imdb": "tt8148426"
+  },
+  "last_updated": "2026-08-17"
+}
