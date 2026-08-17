@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eight_2018",
+  "title": "Eight",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576054",
+    "imdb": "tt9872052",
+    "tmdb": 785360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-04",
+  "runtime_minutes": 88
+}

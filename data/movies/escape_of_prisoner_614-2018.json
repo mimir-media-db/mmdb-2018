@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_of_prisoner_614_2018",
+  "title": "The Escape of Prisoner 614",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245254",
+    "imdb": "tt7375578",
+    "tmdb": 505418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

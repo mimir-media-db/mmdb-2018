@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ellipsis_2018",
+  "title": "Ellipsis",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543876",
+    "imdb": "tt6990770",
+    "tmdb": 457366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 85
+}

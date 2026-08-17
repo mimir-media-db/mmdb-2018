@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everythings_better_than_a_hooker_2018",
+  "title": "Everything's Better than a Hooker",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58335914",
+    "imdb": "tt7982804",
+    "tmdb": 503649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-06",
+  "runtime_minutes": 56
+}

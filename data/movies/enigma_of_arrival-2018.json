@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enigma_of_arrival_2018",
+  "title": "The Enigma of Arrival",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89897000",
+    "imdb": "tt9081510",
+    "tmdb": 585843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

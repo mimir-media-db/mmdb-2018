@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_condor_en_nueva_york_2018",
+  "title": "El Cóndor en Nueva York",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257383",
+    "imdb": "tt6836318",
+    "tmdb": 800128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}

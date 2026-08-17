@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enissa_amani_ehrenwort_2018",
+  "title": "Enissa Amani: Ehrenwort",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100390",
+    "imdb": "tt8328418",
+    "tmdb": 520587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-26",
+  "runtime_minutes": 60
+}

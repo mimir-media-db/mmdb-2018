@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_peligro_2018",
+  "title": "En peligro",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108065015",
+    "imdb": "tt8845420",
+    "tmdb": 555314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 95
+}
