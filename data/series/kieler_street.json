@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kieler_street",
+  "title": "Kieler Street",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q59145974",
+    "imdb": "tt8235246",
+    "tmdb": 83390
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_keeping_faith",
+  "title": "Keeping Faith",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q45319532",
+    "imdb": "tt6658720",
+    "tmdb": 75592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

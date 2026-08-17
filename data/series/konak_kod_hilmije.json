@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_konak_kod_hilmije",
+  "title": "Konak kod Hilmije",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55375098",
+    "imdb": "tt8392956",
+    "tmdb": 82038
+  },
+  "last_updated": "2026-08-17"
+}

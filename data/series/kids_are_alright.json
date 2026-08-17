@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kids_are_alright",
+  "title": "The Kids Are Alright",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55012539",
+    "imdb": "tt7440732",
+    "tmdb": 81923
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 23
+}

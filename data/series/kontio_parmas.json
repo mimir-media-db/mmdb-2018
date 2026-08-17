@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kontio_parmas",
+  "title": "Kontio & Parmas",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q56403185",
+    "imdb": "tt8499998",
+    "tmdb": 82448
+  },
+  "last_updated": "2026-08-17"
+}

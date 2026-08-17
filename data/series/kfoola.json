@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kfoola",
+  "title": "kfoola",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q55261453",
+    "imdb": "tt8409454"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 114
+}

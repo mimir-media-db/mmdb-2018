@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kiss_the_chef",
+  "title": "Kiss the Chef!",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q89580451",
+    "imdb": "tt13523536"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
