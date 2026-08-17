@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_promised_life",
+  "title": "The Promised Life",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56556797",
+    "imdb": "tt4548554",
+    "tmdb": 96170
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

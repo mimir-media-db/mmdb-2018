@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_penny_on_mars",
+  "title": "Penny on M.A.R.S.",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q41960836",
+    "imdb": "tt7449210",
+    "tmdb": 86833
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

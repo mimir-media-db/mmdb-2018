@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ponysitters_club",
+  "title": "Ponysitters Club",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q58848987",
+    "imdb": "tt7692572",
+    "tmdb": 79892
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

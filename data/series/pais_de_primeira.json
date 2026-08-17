@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pais_de_primeira",
+  "title": "Pais de Primeira",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q59202361",
+    "imdb": "tt9269528",
+    "tmdb": 84616
+  },
+  "last_updated": "2026-08-17"
+}

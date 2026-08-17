@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_playhouse",
+  "title": "Playhouse",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55641461",
+    "imdb": "tt8880826",
+    "tmdb": 103022
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 135
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_picnic_at_hanging_rock",
+  "title": "Picnic At Hanging Rock",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29578334",
+    "imdb": "tt6038954",
+    "tmdb": 78881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

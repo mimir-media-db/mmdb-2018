@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_purge",
+  "title": "The Purge",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55263234",
+    "imdb": "tt6110648",
+    "tmdb": 80213
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

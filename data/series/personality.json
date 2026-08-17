@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_personality",
+  "title": "Personality",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q52152174",
+    "imdb": "tt7920978",
+    "tmdb": 77994
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

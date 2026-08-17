@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_peasants_rebellion",
+  "title": "Peasants' Rebellion",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q60575841",
+    "imdb": "tt9011036",
+    "tmdb": 88840
+  },
+  "last_updated": "2026-08-17"
+}

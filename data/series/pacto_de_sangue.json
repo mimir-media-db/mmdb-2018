@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pacto_de_sangue",
+  "title": "Pacto de Sangue",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10343448",
+    "imdb": "tt6742610",
+    "tmdb": 81938
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

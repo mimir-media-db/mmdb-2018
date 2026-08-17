@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pledge_to_god",
+  "title": "A Pledge to God",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q58451797",
+    "imdb": "tt9257510",
+    "tmdb": 84353
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

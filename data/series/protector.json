@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_protector",
+  "title": "The Protector",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q52201581",
+    "imdb": "tt7668518",
+    "tmdb": 79026
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}
