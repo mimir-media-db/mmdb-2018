@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_polo_gang_la_serie",
+  "title": "Dark Polo Gang - La serie",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q113957063",
+    "imdb": "tt12923308",
+    "tmdb": 108320
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

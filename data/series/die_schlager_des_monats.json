@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_die_schlager_des_monats",
+  "title": "Die Schlager des Monats",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58841439",
+    "imdb": "tt32268763",
+    "tmdb": 116291
+  },
+  "last_updated": "2026-08-17"
+}

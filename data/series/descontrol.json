@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_descontrol",
+  "title": "Descontrol",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47313890",
+    "imdb": "tt8681436",
+    "tmdb": 107133
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_druck",
+  "title": "Druck",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56350475",
+    "imdb": "tt8524580",
+    "tmdb": 78508
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_die_inselarztin",
+  "title": "Die Inselärztin",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60616682",
+    "imdb": "tt6914770",
+    "tmdb": 76529
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

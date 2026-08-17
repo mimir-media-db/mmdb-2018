@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dallas_robo",
+  "title": "Dallas & Robo",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48817940",
+    "imdb": "tt7896392",
+    "tmdb": 82561
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

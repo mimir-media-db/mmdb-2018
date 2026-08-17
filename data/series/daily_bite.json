@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_daily_bite",
+  "title": "The Daily Bite",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135624984"
+  },
+  "last_updated": "2026-08-17"
+}

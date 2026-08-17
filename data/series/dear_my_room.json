@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_my_room",
+  "title": "Dear My Room",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60220995",
+    "imdb": "tt9278430",
+    "tmdb": 83779
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

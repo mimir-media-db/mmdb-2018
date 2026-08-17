@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_die_beni_challenge",
+  "title": "Die Beni Challenge",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123945550"
+  },
+  "last_updated": "2026-08-17"
+}

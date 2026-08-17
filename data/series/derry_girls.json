@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_derry_girls",
+  "title": "Derry Girls",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q47090557",
+    "imdb": "tt7120662",
+    "tmdb": 76148
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

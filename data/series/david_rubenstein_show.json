@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_david_rubenstein_show",
+  "title": "The David Rubenstein Show",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97490200",
+    "imdb": "tt13345834"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 80
+}

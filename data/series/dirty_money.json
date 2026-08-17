@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dirty_money",
+  "title": "Dirty Money",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q47642903",
+    "imdb": "tt7889220",
+    "tmdb": 76307
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}
