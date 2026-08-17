@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_odu_raja_odu_2018",
+  "title": "Odu Raja Odu",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56278826",
+    "imdb": "tt8731842",
+    "tmdb": 542794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oslo_diaries_2018",
+  "title": "The Oslo Diaries",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60792909",
+    "imdb": "tt7689940",
+    "tmdb": 493110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}
