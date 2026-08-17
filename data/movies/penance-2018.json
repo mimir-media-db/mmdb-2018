@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penance_2018",
+  "title": "Penance",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106817816",
+    "imdb": "tt5471258",
+    "tmdb": 466928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-01"
+}

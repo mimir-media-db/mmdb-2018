@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_path_of_the_shadows_2018",
+  "title": "The Path of the Shadows",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140878747",
+    "imdb": "tt9357782",
+    "tmdb": 888398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-10",
+  "runtime_minutes": 58
+}

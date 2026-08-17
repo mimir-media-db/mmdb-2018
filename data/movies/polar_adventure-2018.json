@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_polar_adventure_2018",
+  "title": "Polar Adventure",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55735503"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_rabbit_2018",
+  "title": "Peter Rabbit",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964337",
+    "imdb": "tt5117670",
+    "tmdb": 381719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-03",
+  "runtime_minutes": 90
+}

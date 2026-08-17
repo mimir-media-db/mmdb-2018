@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pepa_2018",
+  "title": "Pepa",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897873",
+    "imdb": "tt7341988",
+    "tmdb": 514227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 88
+}

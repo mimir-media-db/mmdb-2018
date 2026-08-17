@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parchi_2018",
+  "title": "Parchi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674015",
+    "imdb": "tt7592758",
+    "tmdb": 490778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-05"
+}

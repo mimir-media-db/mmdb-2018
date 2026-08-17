@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_partys_just_beginning_2018",
+  "title": "The Party's Just Beginning",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48313910",
+    "imdb": "tt6219314",
+    "tmdb": 435557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-24",
+  "runtime_minutes": 91
+}

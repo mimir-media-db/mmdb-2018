@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_lesson_2018",
+  "title": "Piano Lesson",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60995628",
+    "imdb": "tt8873246",
+    "tmdb": 630230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-28",
+  "runtime_minutes": 22
+}

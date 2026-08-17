@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_projekt_antarktis_2018",
+  "title": "Projekt: Antarktis",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56676097",
+    "imdb": "tt9189566",
+    "tmdb": 548898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-25",
+  "runtime_minutes": 97
+}

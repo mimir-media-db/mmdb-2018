@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_yoik_2018",
+  "title": "Power of Yoik",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111631075",
+    "imdb": "tt9033518"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-24",
+  "runtime_minutes": 59
+}
