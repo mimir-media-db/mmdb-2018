@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_couple_trouble",
+  "title": "Couple Trouble",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58003802",
+    "imdb": "tt8682664",
+    "tmdb": 82113
+  },
+  "last_updated": "2026-08-17"
+}

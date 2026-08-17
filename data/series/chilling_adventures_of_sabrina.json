@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chilling_adventures_of_sabrina",
+  "title": "Chilling Adventures of Sabrina",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q50809037",
+    "imdb": "tt7569592",
+    "tmdb": 79242
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

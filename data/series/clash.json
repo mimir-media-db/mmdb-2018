@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_clash",
+  "title": "Clash",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q86681397",
+    "imdb": "tt9312856",
+    "tmdb": 80593
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cooking_on_high",
+  "title": "Cooking on High",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55229605",
+    "imdb": "tt8521728",
+    "tmdb": 80357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

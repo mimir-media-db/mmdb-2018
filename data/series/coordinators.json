@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_coordinators",
+  "title": "The Coordinators",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q62168617",
+    "imdb": "tt10347594",
+    "tmdb": 90118
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coop_cami_ask_the_world",
+  "title": "Coop & Cami Ask the World",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q56274102",
+    "imdb": "tt8381724",
+    "tmdb": 79787
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

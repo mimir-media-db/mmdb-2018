@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_carter",
+  "title": "Carter",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q52152986",
+    "imdb": "tt7083006",
+    "tmdb": 79357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

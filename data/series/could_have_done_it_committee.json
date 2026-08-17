@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_could_have_done_it_committee",
+  "title": "Could Have Done It Committee",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48759568",
+    "imdb": "tt8499662",
+    "tmdb": 81331
+  },
+  "last_updated": "2026-08-17"
+}

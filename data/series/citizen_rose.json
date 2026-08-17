@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_citizen_rose",
+  "title": "Citizen Rose",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48977512",
+    "imdb": "tt7817300",
+    "tmdb": 79690
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_big_brother",
+  "title": "Celebrity Big Brother",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q42220583",
+    "imdb": "tt7948268",
+    "tmdb": 76912
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

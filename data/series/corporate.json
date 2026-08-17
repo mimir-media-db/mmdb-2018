@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corporate",
+  "title": "Corporate",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q47525653",
+    "imdb": "tt5648202",
+    "tmdb": 75967
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

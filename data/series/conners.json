@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_conners",
+  "title": "The Conners",
+  "start_year": 2018,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q56471830",
+    "imdb": "tt8595140",
+    "tmdb": 80550
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 112
+}

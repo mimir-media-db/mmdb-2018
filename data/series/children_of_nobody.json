@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_children_of_nobody",
+  "title": "Children of Nobody",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q58336082",
+    "imdb": "tt9146046",
+    "tmdb": 83940
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}
