@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_then_the_night_comes_2018",
+  "title": "Then The Night Comes",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51109687",
+    "imdb": "tt1802533",
+    "tmdb": 515254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_years_japan_2018",
+  "title": "Ten Years Japan",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60997149",
+    "imdb": "tt7521860",
+    "tmdb": 561068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

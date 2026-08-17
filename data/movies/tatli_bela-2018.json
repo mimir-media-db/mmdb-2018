@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tatli_bela_2018",
+  "title": "Tatli Bela",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51139898",
+    "imdb": "tt8096558",
+    "tmdb": 527749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 90
+}

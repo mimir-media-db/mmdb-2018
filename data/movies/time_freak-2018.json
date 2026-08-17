@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_freak_2018",
+  "title": "Time Freak",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58815179",
+    "imdb": "tt6769280",
+    "tmdb": 451925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

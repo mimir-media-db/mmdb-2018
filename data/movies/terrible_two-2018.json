@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terrible_two_2018",
+  "title": "The Terrible Two",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127924",
+    "imdb": "tt5278886",
+    "tmdb": 504255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
