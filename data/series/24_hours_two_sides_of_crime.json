@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24_hours_two_sides_of_crime",
+  "title": "24 Hours – Two Sides of Crime",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q51092381",
+    "imdb": "tt6144672",
+    "tmdb": 81791
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
