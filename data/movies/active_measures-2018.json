@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_active_measures_2018",
+  "title": "Active Measures",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56551027",
+    "imdb": "tt8135494",
+    "tmdb": 521862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 109
+}

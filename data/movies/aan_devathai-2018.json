@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aan_devathai_2018",
+  "title": "Aan Devathai",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173918",
+    "imdb": "tt7019912",
+    "tmdb": 462391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

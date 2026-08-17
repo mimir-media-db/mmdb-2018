@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_huaso_2018",
+  "title": "American Huaso",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58313458",
+    "imdb": "tt4346036",
+    "tmdb": 519717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

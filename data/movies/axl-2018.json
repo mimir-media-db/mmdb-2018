@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_axl_2018",
+  "title": "A.X.L.",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55262219",
+    "imdb": "tt5709188",
+    "tmdb": 438590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 98
+}

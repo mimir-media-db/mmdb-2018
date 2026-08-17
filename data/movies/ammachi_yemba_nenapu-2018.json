@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ammachi_yemba_nenapu_2018",
+  "title": "Ammachi Yemba Nenapu",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737788",
+    "imdb": "tt9248748",
+    "tmdb": 586119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

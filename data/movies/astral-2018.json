@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_astral_2018",
+  "title": "Astral",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60975109",
+    "imdb": "tt4765240",
+    "tmdb": 419407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 83
+}

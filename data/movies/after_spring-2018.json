@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_spring_2018",
+  "title": "After Spring",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61091991",
+    "imdb": "tt8372562",
+    "tmdb": 528448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
