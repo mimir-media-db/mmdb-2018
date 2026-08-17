@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samouni_road_2018",
+  "title": "Samouni Road",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52063096",
+    "imdb": "tt8397524",
+    "tmdb": 519112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 128
+}

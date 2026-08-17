@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swords_and_sceptres_2018",
+  "title": "Swords and Sceptres",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47502500",
+    "imdb": "tt6916348",
+    "tmdb": 530183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

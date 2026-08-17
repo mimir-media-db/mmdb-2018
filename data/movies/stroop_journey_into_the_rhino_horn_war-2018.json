@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stroop_journey_into_the_rhino_horn_war_2018",
+  "title": "Stroop: Journey into the Rhino Horn War",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61747354",
+    "imdb": "tt8558508",
+    "tmdb": 553073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

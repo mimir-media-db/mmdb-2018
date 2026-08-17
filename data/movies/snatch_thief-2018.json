@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snatch_thief_2018",
+  "title": "The Snatch Thief",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51924871",
+    "imdb": "tt8266010",
+    "tmdb": 518749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 94
+}

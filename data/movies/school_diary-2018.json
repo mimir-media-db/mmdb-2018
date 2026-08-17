@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_school_diary_2018",
+  "title": "School Diary",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550905",
+    "imdb": "tt8439750",
+    "tmdb": 531916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
