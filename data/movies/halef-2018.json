@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halef_2018",
+  "title": "Halef",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52578199",
+    "imdb": "tt8064342",
+    "tmdb": 516055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hellraiser_judgment_2018",
+  "title": "Hellraiser: Judgment",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899862",
+    "imdb": "tt5476182",
+    "tmdb": 444149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 81
+}

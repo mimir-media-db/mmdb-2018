@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_new_year_colin_burstead_2018",
+  "title": "Happy New Year, Colin Burstead.",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031293",
+    "imdb": "tt8122018",
+    "tmdb": 497863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 95
+}

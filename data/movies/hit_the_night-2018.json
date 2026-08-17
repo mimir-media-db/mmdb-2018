@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hit_the_night_2018",
+  "title": "Hit the Night",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50380260",
+    "imdb": "tt7390054",
+    "tmdb": 480474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 85
+}
