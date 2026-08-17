@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ariana_marie_a_little_bit_harder_2018",
+  "title": "Ariana Marie: A Little Bit Harder",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139900306",
+    "imdb": "tt28547197",
+    "tmdb": 542567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-15",
+  "runtime_minutes": 121
+}

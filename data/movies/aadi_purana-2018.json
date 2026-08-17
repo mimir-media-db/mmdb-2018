@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadi_purana_2018",
+  "title": "Aadi Purana",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58492759",
+    "imdb": "tt8396250",
+    "tmdb": 1679810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-05"
+}

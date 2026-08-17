@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aanakkallan_2018",
+  "title": "Aanakkallan",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411631",
+    "imdb": "tt8532782",
+    "tmdb": 555137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-18"
+}

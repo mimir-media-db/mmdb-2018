@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aalloissa_on_aarre_2018",
+  "title": "Aalloissa on aarre",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803143",
+    "imdb": "tt9487090"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-26",
+  "runtime_minutes": 59
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atlas_2018",
+  "title": "Atlas",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63034578",
+    "imdb": "tt5545880",
+    "tmdb": 565388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-24",
+  "runtime_minutes": 90
+}

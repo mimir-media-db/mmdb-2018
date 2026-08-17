@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amityville_murders_2018",
+  "title": "The Amityville Murders",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77400357",
+    "imdb": "tt6984258",
+    "tmdb": 473902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}

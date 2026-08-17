@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ami_neta_hobo_2018",
+  "title": "Ami Neta Hobo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47454120",
+    "imdb": "tt7877232",
+    "tmdb": 526481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-16"
+}

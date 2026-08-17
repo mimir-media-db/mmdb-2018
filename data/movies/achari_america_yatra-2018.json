@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_achari_america_yatra_2018",
+  "title": "Achari America Yatra",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62024471",
+    "imdb": "tt7095392",
+    "tmdb": 506076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

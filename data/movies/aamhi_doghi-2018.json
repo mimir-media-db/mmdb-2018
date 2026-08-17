@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aamhi_doghi_2018",
+  "title": "Aamhi Doghi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671356",
+    "imdb": "tt7748478",
+    "tmdb": 509869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-23"
+}

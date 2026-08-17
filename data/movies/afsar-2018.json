@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afsar_2018",
+  "title": "Afsar",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56551032",
+    "imdb": "tt8765700",
+    "tmdb": 564363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-05",
+  "runtime_minutes": 127
+}

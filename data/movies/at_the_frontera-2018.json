@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_frontera_2018",
+  "title": "At the Frontera",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47498794",
+    "imdb": "tt4126870",
+    "tmdb": 753847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-25"
+}
