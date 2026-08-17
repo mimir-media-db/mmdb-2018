@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_heisei_generations_forever_2018",
+  "title": "Kamen Rider Heisei Generations Forever",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59278298",
+    "imdb": "tt9297624",
+    "tmdb": 543103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
