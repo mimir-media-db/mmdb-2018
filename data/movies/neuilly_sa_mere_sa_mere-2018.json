@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neuilly_sa_mere_sa_mere_2018",
+  "title": "Neuilly sa mère, sa mère !",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55392239",
+    "imdb": "tt7489740",
+    "tmdb": 481762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-01"
+}

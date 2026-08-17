@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_school_2018",
+  "title": "Night School",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672452",
+    "imdb": "tt6781982",
+    "tmdb": 454293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-28",
+  "runtime_minutes": 111
+}

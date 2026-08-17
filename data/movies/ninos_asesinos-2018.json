@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ninos_asesinos_2018",
+  "title": "Niños Asesinos",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64863450",
+    "imdb": "tt7438912",
+    "tmdb": 522554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-22",
+  "runtime_minutes": 110
+}

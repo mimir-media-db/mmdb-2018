@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_namrud_troublemaker_2018",
+  "title": "Namrud: Troublemaker",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52554762",
+    "imdb": "tt7262496",
+    "tmdb": 595223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-17"
+}
