@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_radio_romance",
+  "title": "Radio Romance",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q44811435",
+    "imdb": "tt7817942",
+    "tmdb": 76114
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

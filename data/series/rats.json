@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rats",
+  "title": "The Rats",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56908221",
+    "imdb": "tt9077282",
+    "tmdb": 84775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

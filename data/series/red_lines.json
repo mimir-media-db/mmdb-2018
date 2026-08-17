@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_red_lines",
+  "title": "Red Lines",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q59827516",
+    "imdb": "tt9590698",
+    "tmdb": 87624
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

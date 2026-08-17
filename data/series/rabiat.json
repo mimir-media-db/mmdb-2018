@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rabiat",
+  "title": "Rabiat",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q62670879",
+    "imdb": "tt8520366",
+    "tmdb": 88973
+  },
+  "last_updated": "2026-08-17"
+}

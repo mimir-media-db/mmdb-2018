@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_review_notebook_of_my_embarrassing_days",
+  "title": "Review Notebook of My Embarrassing Days",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60355242",
+    "imdb": "tt9064806",
+    "tmdb": 256938
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1
+}

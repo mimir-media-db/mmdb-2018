@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rotten",
+  "title": "Rotten",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q49638525",
+    "imdb": "tt7763662",
+    "tmdb": 76153
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

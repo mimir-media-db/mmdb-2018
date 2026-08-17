@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ranger_on_the_hunt",
+  "title": "The Ranger - On the Hunt",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q69554704",
+    "imdb": "tt8792478",
+    "tmdb": 84348
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

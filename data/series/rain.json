@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rain",
+  "title": "The Rain",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q48855569",
+    "imdb": "tt6656238",
+    "tmdb": 76719
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}
