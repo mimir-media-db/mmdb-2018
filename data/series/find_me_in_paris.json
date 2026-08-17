@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_find_me_in_paris",
+  "title": "Find Me in Paris",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q55598401",
+    "imdb": "tt7150060",
+    "tmdb": 82199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 52
+}

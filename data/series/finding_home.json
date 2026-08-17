@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_finding_home",
+  "title": "Finding Home",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q58003854",
+    "imdb": "tt7915124",
+    "tmdb": 77990
+  },
+  "last_updated": "2026-08-17"
+}

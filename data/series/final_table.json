@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_final_table",
+  "title": "The Final Table",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q59242661",
+    "imdb": "tt7619858",
+    "tmdb": 84216
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

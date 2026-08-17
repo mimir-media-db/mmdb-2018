@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fastest_car",
+  "title": "Fastest Car",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51879698",
+    "imdb": "tt8295694",
+    "tmdb": 78412
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

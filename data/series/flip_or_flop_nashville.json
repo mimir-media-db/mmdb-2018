@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_flip_or_flop_nashville",
+  "title": "Flip or Flop Nashville",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29097488",
+    "imdb": "tt7365526",
+    "tmdb": 77167
+  },
+  "last_updated": "2026-08-17"
+}

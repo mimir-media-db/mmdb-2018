@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_for_the_people",
+  "title": "For the People",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q30608085",
+    "imdb": "tt6437276",
+    "tmdb": 71766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

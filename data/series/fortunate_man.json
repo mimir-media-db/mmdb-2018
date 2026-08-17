@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fortunate_man",
+  "title": "A Fortunate Man",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q50405168",
+    "imdb": "tt6748178",
+    "tmdb": 85326
+  },
+  "last_updated": "2026-08-17"
+}

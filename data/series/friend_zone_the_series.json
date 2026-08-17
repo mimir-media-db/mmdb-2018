@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_friend_zone_the_series",
+  "title": "Friend Zone The Series",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q54666741",
+    "imdb": "tt30137505",
+    "tmdb": 84164
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

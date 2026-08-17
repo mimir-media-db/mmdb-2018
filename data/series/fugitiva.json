@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fugitiva",
+  "title": "Fugitiva",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q51228452",
+    "imdb": "tt7158972",
+    "tmdb": 78597
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
