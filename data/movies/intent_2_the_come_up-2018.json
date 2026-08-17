@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intent_2_the_come_up_2018",
+  "title": "The Intent 2: The Come Up",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488977",
+    "imdb": "tt7613996",
+    "tmdb": 537104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_be_next_door_for_christmas_2018",
+  "title": "I'll Be Next Door for Christmas",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84012027",
+    "imdb": "tt4057146",
+    "tmdb": 564675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

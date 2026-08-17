@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_paul_walker_2018",
+  "title": "I Am Paul Walker",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101512107",
+    "imdb": "tt8068936",
+    "tmdb": 538161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_icarus_2018",
+  "title": "Icarus",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34905518",
+    "imdb": "tt6333060",
+    "tmdb": 432976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-15",
+  "runtime_minutes": 121
+}

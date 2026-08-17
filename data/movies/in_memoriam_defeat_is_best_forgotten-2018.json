@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_memoriam_defeat_is_best_forgotten_2018",
+  "title": "In Memoriam (defeat is best forgotten)",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136645266",
+    "imdb": "tt9090944",
+    "tmdb": 1135945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 75
+}

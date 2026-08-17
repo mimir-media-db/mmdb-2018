@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impossibility_defense_2018",
+  "title": "Impossibility Defense",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115725850",
+    "imdb": "tt6207118",
+    "tmdb": 474647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-01"
+}
