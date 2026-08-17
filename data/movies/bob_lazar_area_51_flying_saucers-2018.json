@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bob_lazar_area_51_flying_saucers_2018",
+  "title": "Bob Lazar: Area 51 & Flying Saucers",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65047733",
+    "imdb": "tt9107368",
+    "tmdb": 522320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baahubali_2_the_conclusion_2018",
+  "title": "Baahubali 2: The Conclusion",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21001674",
+    "imdb": "tt4849438",
+    "tmdb": 350312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-11",
+  "runtime_minutes": 167
+}

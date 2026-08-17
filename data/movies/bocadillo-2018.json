@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bocadillo_2018",
+  "title": "Bocadillo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108159797",
+    "imdb": "tt9026024",
+    "tmdb": 553580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

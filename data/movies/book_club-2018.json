@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_club_2018",
+  "title": "Book Club",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672553",
+    "imdb": "tt6857166",
+    "tmdb": 502682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-18",
+  "runtime_minutes": 104
+}

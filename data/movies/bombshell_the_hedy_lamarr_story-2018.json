@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bombshell_the_hedy_lamarr_story_2018",
+  "title": "Bombshell: The Hedy Lamarr Story",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44492116",
+    "imdb": "tt6752848",
+    "tmdb": 455565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-06",
+  "runtime_minutes": 90
+}

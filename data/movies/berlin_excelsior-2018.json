@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_excelsior_2018",
+  "title": "Berlin Excelsior",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57713052",
+    "imdb": "tt7525590",
+    "tmdb": 518121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-29"
+}

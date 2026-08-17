@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_salon_special_services_2_2018",
+  "title": "Beauty Salon : Special Services 2",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55729886",
+    "tmdb": 502242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-13"
+}
