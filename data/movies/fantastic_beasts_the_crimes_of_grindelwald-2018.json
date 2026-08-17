@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_beasts_the_crimes_of_grindelwald_2018",
+  "title": "Fantastic Beasts: The Crimes of Grindelwald",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18199331",
+    "imdb": "tt4123430",
+    "tmdb": 338952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-14",
+  "runtime_minutes": 134
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_folk_una_mirada_a_la_musica_tradicional_de_castilla_y_leon_2018",
+  "title": "¡Folk! Una mirada a la música tradicional de Castilla y León",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104826170",
+    "imdb": "tt7999832",
+    "tmdb": 661013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 77
+}

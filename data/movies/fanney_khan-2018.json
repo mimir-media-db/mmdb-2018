@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fanney_khan_2018",
+  "title": "Fanney Khan",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38804955",
+    "imdb": "tt6384386",
+    "tmdb": 465651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-15",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_home_service_2018",
+  "title": "Fantastic Home Service",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840534",
+    "imdb": "tt13255594",
+    "tmdb": 570541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-25"
+}

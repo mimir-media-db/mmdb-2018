@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_blade_2018",
+  "title": "The Final Blade",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85974414",
+    "imdb": "tt7658610",
+    "tmdb": 522928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_footballest_2018",
+  "title": "The Footballest",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107177042",
+    "imdb": "tt7132578",
+    "tmdb": 517317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-24",
+  "runtime_minutes": 103
+}

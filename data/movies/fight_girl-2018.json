@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_girl_2018",
+  "title": "Fight Girl",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884450",
+    "imdb": "tt4187366",
+    "tmdb": 484432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

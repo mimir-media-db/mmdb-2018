@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feminin_plurielles_2018",
+  "title": "Féminin plurielles",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597021",
+    "imdb": "tt8174318",
+    "tmdb": 578721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-07",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finale_2018",
+  "title": "The Finale",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50822675",
+    "imdb": "tt7141030",
+    "tmdb": 469055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-17"
+}
