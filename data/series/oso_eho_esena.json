@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oso_eho_esena",
+  "title": "Oso eho esena",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56762048",
+    "imdb": "tt9061802",
+    "tmdb": 113887
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_spectrum",
+  "title": "On the Spectrum",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q52734901",
+    "imdb": "tt8178684",
+    "tmdb": 79830
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

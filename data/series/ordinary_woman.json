@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ordinary_woman",
+  "title": "An Ordinary woman",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q60851205",
+    "imdb": "tt8561620",
+    "tmdb": 83377
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

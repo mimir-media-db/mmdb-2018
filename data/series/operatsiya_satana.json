@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_operatsiya_satana",
+  "title": "Operatsiya «Satana»",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60850538",
+    "imdb": "tt11128286",
+    "tmdb": 82713
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
