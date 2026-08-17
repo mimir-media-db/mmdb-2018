@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_just_like_mom_and_dad",
+  "title": "Just Like Mom and Dad",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q39087178",
+    "imdb": "tt7874250",
+    "tmdb": 77112
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

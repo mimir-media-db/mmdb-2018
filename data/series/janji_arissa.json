@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_janji_arissa",
+  "title": "Janji Arissa",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65220714",
+    "tmdb": 92239
+  },
+  "last_updated": "2026-08-17"
+}

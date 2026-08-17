@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_joe_pera_talks_with_you",
+  "title": "Joe Pera Talks with You",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q54878447",
+    "imdb": "tt8199790",
+    "tmdb": 79864
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}
