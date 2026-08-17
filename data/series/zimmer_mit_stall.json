@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_zimmer_mit_stall",
+  "title": "Zimmer mit Stall",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98095174",
+    "imdb": "tt7328004"
+  },
+  "last_updated": "2026-08-17"
+}
