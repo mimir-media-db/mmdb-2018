@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1918_aufstand_der_matrosen_2018",
+  "title": "1918 Aufstand der Matrosen",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69387143",
+    "imdb": "tt8538808",
+    "tmdb": 561530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 89
+}
