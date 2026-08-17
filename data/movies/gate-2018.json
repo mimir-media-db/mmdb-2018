@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gate_2018",
+  "title": "Gate",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50320243",
+    "imdb": "tt7095726",
+    "tmdb": 508624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

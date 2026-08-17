@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gayatri_2018",
+  "title": "Gayatri",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56475833",
+    "imdb": "tt7690466",
+    "tmdb": 502703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

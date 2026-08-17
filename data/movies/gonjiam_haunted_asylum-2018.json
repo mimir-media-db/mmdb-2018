@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gonjiam_haunted_asylum_2018",
+  "title": "Gonjiam: Haunted Asylum",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50791455",
+    "imdb": "tt8119752",
+    "tmdb": 508642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 94
+}
