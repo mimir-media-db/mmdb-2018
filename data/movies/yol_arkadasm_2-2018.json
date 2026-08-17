@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yol_arkadasm_2_2018",
+  "title": "Yol Arkadaşım 2",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61077243",
+    "imdb": "tt8748256",
+    "tmdb": 549650
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
