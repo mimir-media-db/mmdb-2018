@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_dune_jeune_femme_2018",
+  "title": "Portrait d'une jeune femme",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60220024",
+    "imdb": "tt5712608",
+    "tmdb": 563190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 82
+}

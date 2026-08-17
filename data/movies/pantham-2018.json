@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pantham_2018",
+  "title": "Pantham",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080296",
+    "imdb": "tt7963804",
+    "tmdb": 534343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

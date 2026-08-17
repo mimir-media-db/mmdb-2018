@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pensjonat_nad_rozlewiskiem_2018",
+  "title": "Pensjonat nad rozlewiskiem",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56327446",
+    "imdb": "tt8044396"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 45
+}
