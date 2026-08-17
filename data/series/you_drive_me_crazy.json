@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_you_drive_me_crazy",
+  "title": "You Drive Me Crazy",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q52627218",
+    "imdb": "tt8333254",
+    "tmdb": 79283
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

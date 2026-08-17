@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_year_of_culture",
+  "title": "The Year of Culture",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61866599",
+    "imdb": "tt9820728",
+    "tmdb": 84245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

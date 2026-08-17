@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_your_house_helper",
+  "title": "Your House Helper",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q54638512",
+    "imdb": "tt8487888",
+    "tmdb": 80389
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}
