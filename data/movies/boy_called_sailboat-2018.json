@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_called_sailboat_2018",
+  "title": "A Boy Called Sailboat",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97738118",
+    "imdb": "tt2201211",
+    "tmdb": 416673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_days_2018",
+  "title": "12 Days",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48754676",
+    "imdb": "tt6777114",
+    "tmdb": 452221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-14",
+  "runtime_minutes": 87
+}

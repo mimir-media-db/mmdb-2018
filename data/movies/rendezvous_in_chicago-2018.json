@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rendezvous_in_chicago_2018",
+  "title": "Rendezvous in Chicago",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106936096",
+    "imdb": "tt8092490",
+    "tmdb": 527343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

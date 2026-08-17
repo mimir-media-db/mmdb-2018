@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_stole_banksy_2018",
+  "title": "The Man Who Stole Banksy",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125782820",
+    "imdb": "tt6964538",
+    "tmdb": 511541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-04",
+  "runtime_minutes": 90
+}

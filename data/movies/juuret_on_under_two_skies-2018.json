@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_juuret_on_under_two_skies_2018",
+  "title": "Juuret On (Under Two Skies)",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72882508",
+    "imdb": "tt7971276"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-06",
+  "runtime_minutes": 12
+}

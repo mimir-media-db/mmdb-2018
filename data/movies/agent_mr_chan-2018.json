@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_mr_chan_2018",
+  "title": "Agent Mr Chan",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28416929",
+    "imdb": "tt7759626",
+    "tmdb": 502453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-15",
+  "runtime_minutes": 101
+}

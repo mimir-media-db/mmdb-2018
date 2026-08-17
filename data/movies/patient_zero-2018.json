@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_patient_zero_2018",
+  "title": "Patient Zero",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573620",
+    "imdb": "tt3458254",
+    "tmdb": 295011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-14"
+}

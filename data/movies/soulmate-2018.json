@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soulmate_2018",
+  "title": "The Soul-Mate",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28698862",
+    "imdb": "tt7938128",
+    "tmdb": 540384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-26",
+  "runtime_minutes": 97
+}

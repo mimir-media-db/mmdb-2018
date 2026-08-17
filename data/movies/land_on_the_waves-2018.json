@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_on_the_waves_2018",
+  "title": "The Land on the Waves",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65304795",
+    "imdb": "tt9270506",
+    "tmdb": 528162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_dee_and_the_road_to_hell_2018",
+  "title": "Detective Dee and the Road to Hell",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999221",
+    "imdb": "tt9477338",
+    "tmdb": 552475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

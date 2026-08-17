@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lee_chong_wei_2018",
+  "title": "Lee Chong Wei",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500529",
+    "imdb": "tt7967954",
+    "tmdb": 550936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-09"
+}

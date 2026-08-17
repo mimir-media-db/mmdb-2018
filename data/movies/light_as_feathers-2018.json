@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_light_as_feathers_2018",
+  "title": "Light as Feathers",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65594248",
+    "imdb": "tt6720900",
+    "tmdb": 543773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-04",
+  "runtime_minutes": 86
+}

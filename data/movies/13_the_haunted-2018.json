@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_13_the_haunted_2018",
+  "title": "13: The Haunted",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56398999",
+    "imdb": "tt8690956",
+    "tmdb": 537633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-26"
+}

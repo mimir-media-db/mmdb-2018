@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_be_really_bad_2018",
+  "title": "How to Be Really Bad",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54850132",
+    "imdb": "tt5571754",
+    "tmdb": 456616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-01",
+  "runtime_minutes": 95
+}

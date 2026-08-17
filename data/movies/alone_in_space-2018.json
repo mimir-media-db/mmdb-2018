@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_in_space_2018",
+  "title": "Alone in Space",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57280267",
+    "imdb": "tt5514344",
+    "tmdb": 527161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-21",
+  "runtime_minutes": 83
+}

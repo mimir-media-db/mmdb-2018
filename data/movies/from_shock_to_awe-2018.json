@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_shock_to_awe_2018",
+  "title": "From Shock to Awe",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100730391",
+    "imdb": "tt7541970",
+    "tmdb": 581864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

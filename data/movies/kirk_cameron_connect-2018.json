@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kirk_cameron_connect_2018",
+  "title": "Kirk Cameron: Connect",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64908851",
+    "imdb": "tt7820280",
+    "tmdb": 508613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-27"
+}

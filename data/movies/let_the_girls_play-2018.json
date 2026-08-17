@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_girls_play_2018",
+  "title": "Let the Girls Play",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48759406",
+    "imdb": "tt6096948",
+    "tmdb": 458956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-25",
+  "runtime_minutes": 90
+}

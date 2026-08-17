@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mercy_2018",
+  "title": "The Mercy",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735764",
+    "imdb": "tt3319730",
+    "tmdb": 414001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-22",
+  "runtime_minutes": 102
+}

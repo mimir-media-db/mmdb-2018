@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troupe_2018",
+  "title": "The Troupe",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56640162",
+    "imdb": "tt4733346",
+    "tmdb": 509857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-08",
+  "runtime_minutes": 102
+}

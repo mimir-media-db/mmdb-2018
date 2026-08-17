@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_growing_up_2018",
+  "title": "Growing Up",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52233671",
+    "imdb": "tt7313518",
+    "tmdb": 517307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-27",
+  "runtime_minutes": 96
+}

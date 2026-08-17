@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_212_the_power_of_love_2018",
+  "title": "212: The Power of Love",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56393438",
+    "imdb": "tt9590188",
+    "tmdb": 523319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-09"
+}

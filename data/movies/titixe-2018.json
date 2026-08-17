@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_titixe_2018",
+  "title": "Titixe",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123683230",
+    "imdb": "tt8871704",
+    "tmdb": 551733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 63
+}

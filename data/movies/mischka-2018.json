@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mischka_2018",
+  "title": "Mischka",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3316228",
+    "imdb": "tt0260185",
+    "tmdb": 82235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-18",
+  "runtime_minutes": 116
+}

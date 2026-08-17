@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unsane_2018",
+  "title": "Unsane",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071240",
+    "imdb": "tt7153766",
+    "tmdb": 467660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-29",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdom_of_clay_subjects_2018",
+  "title": "Kingdom of Clay Subjects",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51078075",
+    "imdb": "tt4862190",
+    "tmdb": 446825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-23",
+  "runtime_minutes": 88
+}

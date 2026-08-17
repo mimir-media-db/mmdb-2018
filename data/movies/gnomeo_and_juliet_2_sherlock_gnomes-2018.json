@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gnomeo_and_juliet_2_sherlock_gnomes_2018",
+  "title": "Gnomeo and Juliet 2: Sherlock Gnomes",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24904727",
+    "imdb": "tt2296777",
+    "tmdb": 370567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-22",
+  "runtime_minutes": 86
+}

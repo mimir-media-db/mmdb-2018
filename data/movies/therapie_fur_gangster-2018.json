@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_therapie_fur_gangster_2018",
+  "title": "Therapie für Gangster",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51978263",
+    "imdb": "tt8370246"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-03"
+}

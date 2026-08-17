@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_widows_2018",
+  "title": "Widows",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29163736",
+    "imdb": "tt4218572",
+    "tmdb": 401469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-06",
+  "runtime_minutes": 128
+}

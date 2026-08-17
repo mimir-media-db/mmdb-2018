@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alas_pati_hutan_mati_2018",
+  "title": "Alas Pati: Hutan Mati",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56394501",
+    "imdb": "tt8463722",
+    "tmdb": 525702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-24",
+  "runtime_minutes": 82
+}

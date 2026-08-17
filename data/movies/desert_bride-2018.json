@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desert_bride_2018",
+  "title": "The Desert Bride",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29380607",
+    "imdb": "tt6147512",
+    "tmdb": 451985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-19",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skyscraper_2018",
+  "title": "Skyscraper",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37447062",
+    "imdb": "tt5758778",
+    "tmdb": 447200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-11",
+  "runtime_minutes": 102
+}

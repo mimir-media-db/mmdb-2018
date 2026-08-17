@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_color_of_me_2018",
+  "title": "The Color of Me",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65924972",
+    "imdb": "tt8160636"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

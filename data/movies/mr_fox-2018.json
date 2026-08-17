@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_fox_2018",
+  "title": "Mr. Fox",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122691704",
+    "imdb": "tt7624996",
+    "tmdb": 500453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-23",
+  "runtime_minutes": 22
+}

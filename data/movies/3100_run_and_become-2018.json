@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3100_run_and_become_2018",
+  "title": "3100: Run and Become",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57314409",
+    "imdb": "tt4936398",
+    "tmdb": 548875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-17",
+  "runtime_minutes": 80
+}

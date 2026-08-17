@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_silencio_es_un_cuerpo_que_cae_2018",
+  "title": "El silencio es un cuerpo que cae",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106512732",
+    "imdb": "tt7795132",
+    "tmdb": 518776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 72
+}

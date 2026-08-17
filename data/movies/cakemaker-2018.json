@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cakemaker_2018",
+  "title": "The Cakemaker",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101607",
+    "imdb": "tt4830786",
+    "tmdb": 464825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-01",
+  "runtime_minutes": 105
+}

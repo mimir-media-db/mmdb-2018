@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_years_eve_taxi_2018",
+  "title": "New Year's Eve Taxi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60667915",
+    "imdb": "tt11552296",
+    "tmdb": 568723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-30",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krays_dead_man_walking_2018",
+  "title": "The Krays: Dead Man Walking",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97353635",
+    "imdb": "tt7858466",
+    "tmdb": 530266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-10"
+}

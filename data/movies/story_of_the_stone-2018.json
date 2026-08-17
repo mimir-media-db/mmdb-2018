@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_the_stone_2018",
+  "title": "The Story of the Stone",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60991741",
+    "imdb": "tt7866702",
+    "tmdb": 538514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-19"
+}

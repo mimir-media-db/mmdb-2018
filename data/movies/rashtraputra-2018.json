@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rashtraputra_2018",
+  "title": "Rashtraputra",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114686956",
+    "imdb": "tt8929946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

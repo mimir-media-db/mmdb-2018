@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_of_the_year_2018",
+  "title": "Brother of The Year",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42855585",
+    "imdb": "tt8060408",
+    "tmdb": 512732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-10",
+  "runtime_minutes": 125
+}

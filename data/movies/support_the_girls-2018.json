@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_support_the_girls_2018",
+  "title": "Support the Girls",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463153",
+    "imdb": "tt6859352",
+    "tmdb": 456086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-01"
+}

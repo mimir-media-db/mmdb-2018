@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punasii_pain_2018",
+  "title": "Punasii päin",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65243087",
+    "imdb": "tt8408458",
+    "tmdb": 528969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 90
+}

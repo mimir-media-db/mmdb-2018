@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prayer_before_dawn_2018",
+  "title": "A Prayer Before Dawn",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29406165",
+    "imdb": "tt4080956",
+    "tmdb": 448776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-09",
+  "runtime_minutes": 117
+}

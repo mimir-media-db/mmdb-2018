@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outdoors_2018",
+  "title": "Outdoors",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97949456",
+    "imdb": "tt7267674",
+    "tmdb": 474419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-24",
+  "runtime_minutes": 80
+}

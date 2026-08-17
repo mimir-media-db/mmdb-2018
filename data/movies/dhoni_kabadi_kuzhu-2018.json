@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhoni_kabadi_kuzhu_2018",
+  "title": "Dhoni Kabadi Kuzhu",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96376329",
+    "imdb": "tt9128216",
+    "tmdb": 607280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

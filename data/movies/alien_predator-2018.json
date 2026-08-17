@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_predator_2018",
+  "title": "Alien Predator",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64578050",
+    "imdb": "tt8633296",
+    "tmdb": 548257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-11",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cool_fish_2018",
+  "title": "A Cool Fish",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59783960",
+    "imdb": "tt9282616",
+    "tmdb": 554205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-16",
+  "runtime_minutes": 109
+}

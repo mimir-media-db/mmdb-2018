@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marrowbone_2018",
+  "title": "Marrowbone",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073809",
+    "imdb": "tt5886440",
+    "tmdb": 399366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-13",
+  "runtime_minutes": 110
+}

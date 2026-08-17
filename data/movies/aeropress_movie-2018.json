@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aeropress_movie_2018",
+  "title": "AeroPress Movie",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898110",
+    "imdb": "tt9176638",
+    "tmdb": 591140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 44
+}

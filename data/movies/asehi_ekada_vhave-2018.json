@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_asehi_ekada_vhave_2018",
+  "title": "Asehi Ekada Vhave",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55390568",
+    "imdb": "tt7886740",
+    "tmdb": 1183133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_avental_rosa_2018",
+  "title": "O Avental Rosa",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110888219",
+    "imdb": "tt7644878",
+    "tmdb": 536733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_they_call_us_warriors_2018",
+  "title": "They Call Us Warriors",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108084226",
+    "imdb": "tt7573324",
+    "tmdb": 551172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oga_bolaji_2018",
+  "title": "Oga Bolaji",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96397197",
+    "imdb": "tt8847418",
+    "tmdb": 744802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-07",
+  "runtime_minutes": 90
+}

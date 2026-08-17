@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_boeing_boeing_2018",
+  "title": "Boeing Boeing",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115415618",
+    "tmdb": 495704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

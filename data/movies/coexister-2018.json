@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coexister_2018",
+  "title": "Coexister",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28736927",
+    "imdb": "tt6144762",
+    "tmdb": 432618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-26",
+  "runtime_minutes": 90
+}

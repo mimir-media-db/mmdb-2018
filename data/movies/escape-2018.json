@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_2018",
+  "title": "The Escape",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073801",
+    "imdb": "tt6069126",
+    "tmdb": 475007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-03",
+  "runtime_minutes": 105
+}

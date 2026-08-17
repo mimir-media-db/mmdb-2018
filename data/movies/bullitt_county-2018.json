@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullitt_county_2018",
+  "title": "Bullitt County",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63870277",
+    "imdb": "tt6140148",
+    "tmdb": 502791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-26",
+  "runtime_minutes": 98
+}

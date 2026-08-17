@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christopher_robin_2018",
+  "title": "Christopher Robin",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24301991",
+    "imdb": "tt4575576",
+    "tmdb": 420814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-01",
+  "runtime_minutes": 104
+}

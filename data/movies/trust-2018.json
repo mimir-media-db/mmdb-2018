@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trust_2018",
+  "title": "Trust",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600293",
+    "imdb": "tt5541186",
+    "tmdb": 588579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

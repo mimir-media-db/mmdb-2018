@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_superjhemp_retorns_2018",
+  "title": "De Superjhemp retörns",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60056469",
+    "imdb": "tt9185526",
+    "tmdb": 557165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-24"
+}

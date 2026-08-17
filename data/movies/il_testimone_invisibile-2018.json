@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_testimone_invisibile_2018",
+  "title": "Il testimone invisibile",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60839546",
+    "imdb": "tt7735502",
+    "tmdb": 555561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-13",
+  "runtime_minutes": 102
+}

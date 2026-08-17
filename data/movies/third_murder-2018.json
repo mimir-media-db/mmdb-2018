@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_third_murder_2018",
+  "title": "The Third Murder",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28841928",
+    "imdb": "tt6410564",
+    "tmdb": 434775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-20",
+  "runtime_minutes": 124
+}

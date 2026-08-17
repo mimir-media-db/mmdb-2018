@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rompis_2018",
+  "title": "Rompis",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56399607",
+    "imdb": "tt8798274",
+    "tmdb": 536645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-16",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domestics_2018",
+  "title": "The Domestics",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54017879",
+    "imdb": "tt5591666",
+    "tmdb": 426814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-28",
+  "runtime_minutes": 95
+}

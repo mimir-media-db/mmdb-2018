@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blossom_valley_2018",
+  "title": "Blossom Valley",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56640163",
+    "imdb": "tt7679754",
+    "tmdb": 532352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-02",
+  "runtime_minutes": 83
+}

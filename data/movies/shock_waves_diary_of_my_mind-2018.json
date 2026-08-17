@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shock_waves_diary_of_my_mind_2018",
+  "title": "Shock Waves – Diary of My Mind",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671731",
+    "imdb": "tt7937784",
+    "tmdb": 500834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-27",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhonsle_2018",
+  "title": "Bhonsle",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59727229",
+    "imdb": "tt8476998",
+    "tmdb": 554826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-05",
+  "runtime_minutes": 133
+}

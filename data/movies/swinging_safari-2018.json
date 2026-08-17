@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swinging_safari_2018",
+  "title": "Swinging Safari",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28797344",
+    "imdb": "tt5473090",
+    "tmdb": 454033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-26",
+  "runtime_minutes": 97
+}

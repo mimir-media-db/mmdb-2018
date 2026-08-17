@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shop_of_little_pleasures_2018",
+  "title": "Shop of Little Pleasures",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54856217",
+    "imdb": "tt5887292",
+    "tmdb": 484883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-12",
+  "runtime_minutes": 93
+}

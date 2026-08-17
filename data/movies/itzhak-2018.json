@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_itzhak_2018",
+  "title": "Itzhak",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55753268",
+    "imdb": "tt6186232",
+    "tmdb": 502759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-09",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoax_2018",
+  "title": "Hoax",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65209862",
+    "imdb": "tt2549996",
+    "tmdb": 590076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wo_india_ka_shakespeare_2018",
+  "title": "Wo India Ka Shakespeare",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536578",
+    "imdb": "tt7881520"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-19"
+}

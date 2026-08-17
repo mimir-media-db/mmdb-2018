@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cest_ecrit_2018",
+  "title": "C'est écrit",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54666645"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-06",
+  "runtime_minutes": 90
+}

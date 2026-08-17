@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herencia_2018",
+  "title": "Herencia",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123510544",
+    "imdb": "tt7054830",
+    "tmdb": 1459854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}

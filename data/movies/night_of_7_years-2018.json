@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_7_years_2018",
+  "title": "Night of 7 Years",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22666213",
+    "imdb": "tt8060652",
+    "tmdb": 437083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-28",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_of_the_voice_2018",
+  "title": "Of the Voice",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56757416",
+    "imdb": "tt7076030",
+    "tmdb": 553333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-01"
+}

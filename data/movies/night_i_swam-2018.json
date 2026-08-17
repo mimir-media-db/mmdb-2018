@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_i_swam_2018",
+  "title": "The Night I Swam",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48757575",
+    "imdb": "tt7336012",
+    "tmdb": 474206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-14",
+  "runtime_minutes": 79
+}

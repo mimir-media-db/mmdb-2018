@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chal_mohan_ranga_2018",
+  "title": "Chal Mohan Ranga",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55606929",
+    "imdb": "tt7767866",
+    "tmdb": 508887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_2018",
+  "title": "Devil",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97339514",
+    "imdb": "tt7442358",
+    "tmdb": 587409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangway_to_a_future_2018",
+  "title": "Gangway to a Future",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61672482",
+    "imdb": "tt8147842",
+    "tmdb": 499841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-26",
+  "runtime_minutes": 90
+}

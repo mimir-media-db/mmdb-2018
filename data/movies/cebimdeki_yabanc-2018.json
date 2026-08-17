@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cebimdeki_yabanc_2018",
+  "title": "Cebimdeki Yabancı",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47520511",
+    "imdb": "tt7862330",
+    "tmdb": 497179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-02",
+  "runtime_minutes": 95
+}

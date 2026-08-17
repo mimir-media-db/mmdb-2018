@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lean_on_pete_2018",
+  "title": "Lean on Pete",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703189",
+    "imdb": "tt5340300",
+    "tmdb": 407890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-06",
+  "runtime_minutes": 121
+}

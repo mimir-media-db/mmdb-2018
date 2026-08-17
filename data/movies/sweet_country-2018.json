@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_country_2018",
+  "title": "Sweet Country",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35144519",
+    "imdb": "tt6958212",
+    "tmdb": 468210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-19",
+  "runtime_minutes": 110
+}

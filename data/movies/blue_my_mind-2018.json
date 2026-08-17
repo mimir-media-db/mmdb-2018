@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_my_mind_2018",
+  "title": "Blue My Mind",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47539767",
+    "imdb": "tt6193454",
+    "tmdb": 455974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-04",
+  "runtime_minutes": 97
+}

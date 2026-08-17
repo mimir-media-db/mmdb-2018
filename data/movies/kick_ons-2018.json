@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kick_ons_2018",
+  "title": "Kick Ons",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599838",
+    "imdb": "tt7363538",
+    "tmdb": 551225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

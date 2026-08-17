@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_sindaco_italian_politics_4_dummies_2018",
+  "title": "Il Sindaco - Italian Politics 4 Dummies",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59246877",
+    "imdb": "tt9448284",
+    "tmdb": 564625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-26",
+  "runtime_minutes": 80
+}

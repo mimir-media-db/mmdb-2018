@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daily_fables_2018",
+  "title": "Daily Fables",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60729712",
+    "imdb": "tt10449120",
+    "tmdb": 567404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-19"
+}

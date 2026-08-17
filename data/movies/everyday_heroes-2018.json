@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everyday_heroes_2018",
+  "title": "Everyday Heroes",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038318",
+    "imdb": "tt4466494",
+    "tmdb": 433919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-20",
+  "runtime_minutes": 80
+}

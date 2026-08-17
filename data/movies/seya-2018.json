@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seya_2018",
+  "title": "Seya",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672492",
+    "imdb": "tt7857658",
+    "tmdb": 824020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-15"
+}

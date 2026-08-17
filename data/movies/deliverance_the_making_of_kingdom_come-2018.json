@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deliverance_the_making_of_kingdom_come_2018",
+  "title": "Deliverance: The Making of Kingdom Come",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898070",
+    "imdb": "tt9544468",
+    "tmdb": 580307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_beasts_2018",
+  "title": "King of Beasts",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244933",
+    "imdb": "tt3953420",
+    "tmdb": 545701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

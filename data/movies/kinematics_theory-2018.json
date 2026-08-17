@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kinematics_theory_2018",
+  "title": "Kinematics Theory",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66712137",
+    "imdb": "tt8430326",
+    "tmdb": 525003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-26",
+  "runtime_minutes": 75
+}

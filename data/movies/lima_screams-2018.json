@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lima_screams_2018",
+  "title": "Lima Screams",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123510563",
+    "imdb": "tt9560438",
+    "tmdb": 562491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 80
+}

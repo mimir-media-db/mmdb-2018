@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mayfair_2018",
+  "title": "Mayfair",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85784472",
+    "imdb": "tt8635064",
+    "tmdb": 545570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-05",
+  "runtime_minutes": 92
+}

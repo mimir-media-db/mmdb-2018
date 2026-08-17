@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_summoning_2018",
+  "title": "The Summoning",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65665819",
+    "imdb": "tt8900836"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-31"
+}

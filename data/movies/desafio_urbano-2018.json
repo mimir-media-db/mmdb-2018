@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desafio_urbano_2018",
+  "title": "Desafío Urbano",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59616637",
+    "imdb": "tt9372344",
+    "tmdb": 766186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-06",
+  "runtime_minutes": 93
+}

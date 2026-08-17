@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_from_mars_2018",
+  "title": "Men from Mars",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106862484",
+    "imdb": "tt6868684",
+    "tmdb": 509243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-08",
+  "runtime_minutes": 91
+}

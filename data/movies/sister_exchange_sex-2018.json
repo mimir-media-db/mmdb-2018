@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_exchange_sex_2018",
+  "title": "Sister Exchange Sex",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840476",
+    "imdb": "tt10095688",
+    "tmdb": 968608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-04"
+}

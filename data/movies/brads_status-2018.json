@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brads_status_2018",
+  "title": "Brad's Status",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703156",
+    "imdb": "tt5884230",
+    "tmdb": 425980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-29",
+  "runtime_minutes": 101
+}

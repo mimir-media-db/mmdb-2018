@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jab_harry_met_sejal_2018",
+  "title": "Jab Harry Met Sejal",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720624",
+    "imdb": "tt5997666",
+    "tmdb": 441906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-10",
+  "runtime_minutes": 143
+}

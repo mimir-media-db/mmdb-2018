@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_wine_in_old_bottle_2018",
+  "title": "New Wine In Old Bottle",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61077339",
+    "imdb": "tt8720458",
+    "tmdb": 539197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-20",
+  "runtime_minutes": 99
+}

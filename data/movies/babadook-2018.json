@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babadook_2018",
+  "title": "The Babadook",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16011764",
+    "imdb": "tt2321549",
+    "tmdb": 242224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-08",
+  "runtime_minutes": 94
+}

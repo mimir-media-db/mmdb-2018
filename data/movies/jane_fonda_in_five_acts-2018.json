@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_fonda_in_five_acts_2018",
+  "title": "Jane Fonda in Five Acts",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66828119",
+    "imdb": "tt7689958",
+    "tmdb": 490082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-24",
+  "runtime_minutes": 133
+}

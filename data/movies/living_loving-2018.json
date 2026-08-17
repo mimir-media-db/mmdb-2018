@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_loving_2018",
+  "title": "Living. Loving.",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77805233",
+    "imdb": "tt7524352",
+    "tmdb": 556162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trailer_park_taboo_2018",
+  "title": "A Trailer Park Taboo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89680171",
+    "imdb": "tt9011406",
+    "tmdb": 525314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-01",
+  "runtime_minutes": 229
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roxy_2018",
+  "title": "#Roxy",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64990912",
+    "imdb": "tt5646082",
+    "tmdb": 490488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-01",
+  "runtime_minutes": 105
+}

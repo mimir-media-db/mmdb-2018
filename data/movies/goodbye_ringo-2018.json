@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_ringo_2018",
+  "title": "Goodbye Ringo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126180411",
+    "imdb": "tt9419582",
+    "tmdb": 801182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

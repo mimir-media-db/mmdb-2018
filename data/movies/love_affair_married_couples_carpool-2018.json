@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_affair_married_couples_carpool_2018",
+  "title": "Love Affair: Married Couple's Carpool",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840547",
+    "imdb": "tt13518222",
+    "tmdb": 543018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-28"
+}

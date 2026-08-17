@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_21_carats_2018",
+  "title": "21 Carats",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55697959",
+    "imdb": "tt8320654",
+    "tmdb": 547878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-20"
+}

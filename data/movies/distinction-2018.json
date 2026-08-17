@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_distinction_2018",
+  "title": "Distinction",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56272483",
+    "imdb": "tt9129808",
+    "tmdb": 535897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-11"
+}

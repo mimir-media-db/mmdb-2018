@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_prince_2018",
+  "title": "The Happy Prince",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27501903",
+    "imdb": "tt2404639",
+    "tmdb": 427214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-24",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beetle_2018",
+  "title": "The Beetle",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65245424",
+    "imdb": "tt8467008"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-25",
+  "runtime_minutes": 81
+}

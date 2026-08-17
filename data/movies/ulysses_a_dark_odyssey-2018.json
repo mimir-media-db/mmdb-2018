@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ulysses_a_dark_odyssey_2018",
+  "title": "Ulysses: A Dark Odyssey",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110462385",
+    "imdb": "tt5581752",
+    "tmdb": 525705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

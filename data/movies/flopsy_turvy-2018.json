@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flopsy_turvy_2018",
+  "title": "Flopsy Turvy",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126163401",
+    "imdb": "tt8211922",
+    "tmdb": 521353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-30"
+}

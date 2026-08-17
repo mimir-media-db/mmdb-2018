@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_feast_of_the_seven_fishes_2018",
+  "title": "Feast of the Seven Fishes",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64211126",
+    "imdb": "tt7846056",
+    "tmdb": 635885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

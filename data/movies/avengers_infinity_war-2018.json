@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avengers_infinity_war_2018",
+  "title": "Avengers: Infinity War",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23780914",
+    "imdb": "tt4154756",
+    "tmdb": 299536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-25",
+  "runtime_minutes": 149
+}

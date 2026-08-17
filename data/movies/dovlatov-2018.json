@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dovlatov_2018",
+  "title": "Dovlatov",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25397044",
+    "imdb": "tt7763020",
+    "tmdb": 493655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-17",
+  "runtime_minutes": 126
+}

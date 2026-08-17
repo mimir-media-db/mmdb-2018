@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_pigalle_2018",
+  "title": "Paris Pigalle",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56999748",
+    "imdb": "tt6451260",
+    "tmdb": 510460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-19",
+  "runtime_minutes": 118
+}

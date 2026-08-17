@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4_years_in_10_minutes_2018",
+  "title": "4 Years in 10 Minutes",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105012630",
+    "imdb": "tt8401098",
+    "tmdb": 546676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 63
+}

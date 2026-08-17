@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whitney_2018",
+  "title": "Whitney",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52791458",
+    "imdb": "tt5740866",
+    "tmdb": 507256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-16",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flawless_2018",
+  "title": "Flawless",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274908",
+    "imdb": "tt8653840",
+    "tmdb": 536118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-06",
+  "runtime_minutes": 97
+}

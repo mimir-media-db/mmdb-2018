@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luther_and_the_protestant_revolution_2018",
+  "title": "Luther and the Protestant Revolution",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106000175",
+    "imdb": "tt8413560",
+    "tmdb": 501288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-30",
+  "runtime_minutes": 100
+}

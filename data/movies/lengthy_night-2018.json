@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lengthy_night_2018",
+  "title": "Lengthy Night",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73918233",
+    "imdb": "tt9390058",
+    "tmdb": 633881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-08",
+  "runtime_minutes": 100
+}

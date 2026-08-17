@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_addict_2018",
+  "title": "Love Addict",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48760637",
+    "imdb": "tt6960736",
+    "tmdb": 462148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-18",
+  "runtime_minutes": 93
+}

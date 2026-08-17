@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diamond_dust_2018",
+  "title": "Diamond Dust",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41796150",
+    "imdb": "tt4003070",
+    "tmdb": 515224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-11",
+  "runtime_minutes": 162
+}

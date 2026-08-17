@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_awe_2018",
+  "title": "Awe",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48673880",
+    "imdb": "tt7797658",
+    "tmdb": 500723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-16"
+}

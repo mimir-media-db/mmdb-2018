@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ka_kha_ga_gha_2018",
+  "title": "Ka Kha Ga Gha",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50819314",
+    "imdb": "tt8060588",
+    "tmdb": 696479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-09"
+}

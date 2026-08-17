@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_comes_at_night_2018",
+  "title": "It Comes at Night",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703192",
+    "imdb": "tt4695012",
+    "tmdb": 418078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-18",
+  "runtime_minutes": 91
+}

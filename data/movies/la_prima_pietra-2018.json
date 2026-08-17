@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_prima_pietra_2018",
+  "title": "La prima pietra",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58381000",
+    "imdb": "tt8769766",
+    "tmdb": 559927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-22",
+  "runtime_minutes": 77
+}

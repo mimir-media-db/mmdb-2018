@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dashuria_smjafton_2018",
+  "title": "Dashuria s'mjafton",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136410054",
+    "imdb": "tt10556516",
+    "tmdb": 600705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-22"
+}

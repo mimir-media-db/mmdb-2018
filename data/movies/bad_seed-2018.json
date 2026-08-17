@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_seed_2018",
+  "title": "The Bad Seed",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56314174",
+    "imdb": "tt4823992",
+    "tmdb": 532814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-09"
+}

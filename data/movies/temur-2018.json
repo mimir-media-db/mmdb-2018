@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_temur_2018",
+  "title": "Temur",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120829387",
+    "imdb": "tt15881252"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

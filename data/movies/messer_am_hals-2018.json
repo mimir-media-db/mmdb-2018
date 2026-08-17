@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_messer_am_hals_2018",
+  "title": "Messer am Hals",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114878014",
+    "imdb": "tt7544218",
+    "tmdb": 1301024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-01"
+}

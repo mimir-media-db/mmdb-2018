@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silvana_a_poplovestory_2018",
+  "title": "Silvana - a Pop-Love-Story",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56033184",
+    "imdb": "tt6964150",
+    "tmdb": 462067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-23"
+}

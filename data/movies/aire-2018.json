@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aire_2018",
+  "title": "Aire",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108064954",
+    "imdb": "tt9265300",
+    "tmdb": 562258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 72
+}

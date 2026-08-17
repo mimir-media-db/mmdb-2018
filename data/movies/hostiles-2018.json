@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostiles_2018",
+  "title": "Hostiles",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957941",
+    "imdb": "tt5478478",
+    "tmdb": 384680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-31",
+  "runtime_minutes": 127
+}

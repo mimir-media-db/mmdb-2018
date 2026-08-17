@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hey_jude_2018",
+  "title": "Hey Jude",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070927",
+    "imdb": "tt6385856",
+    "tmdb": 464979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-02"
+}

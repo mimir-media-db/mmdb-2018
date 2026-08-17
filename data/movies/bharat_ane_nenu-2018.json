@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharat_ane_nenu_2018",
+  "title": "Bharat Ane Nenu",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38805191",
+    "imdb": "tt6980546",
+    "tmdb": 501987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-27"
+}

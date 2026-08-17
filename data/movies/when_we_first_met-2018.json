@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_we_first_met_2018",
+  "title": "When We First Met",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703160",
+    "imdb": "tt5783956",
+    "tmdb": 433310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-09",
+  "runtime_minutes": 97
+}

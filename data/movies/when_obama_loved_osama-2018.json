@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_obama_loved_osama_2018",
+  "title": "When Obama Loved Osama",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101117482",
+    "imdb": "tt7926824",
+    "tmdb": 597310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-27"
+}

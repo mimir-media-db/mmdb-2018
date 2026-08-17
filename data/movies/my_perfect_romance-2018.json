@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_perfect_romance_2018",
+  "title": "My Perfect Romance",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100434",
+    "imdb": "tt7358936",
+    "tmdb": 503403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-06",
+  "runtime_minutes": 91
+}

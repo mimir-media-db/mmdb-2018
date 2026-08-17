@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canal_street_2018",
+  "title": "Canal Street",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65072553",
+    "imdb": "tt6183104",
+    "tmdb": 547760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-13",
+  "runtime_minutes": 89
+}

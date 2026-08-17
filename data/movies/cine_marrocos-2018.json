@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cine_marrocos_2018",
+  "title": "Cine Marrocos",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95516426",
+    "imdb": "tt9825916",
+    "tmdb": 590506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

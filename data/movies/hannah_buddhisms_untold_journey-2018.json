@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hannah_buddhisms_untold_journey_2018",
+  "title": "Hannah: Buddhism's Untold Journey",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26896751",
+    "imdb": "tt3658366",
+    "tmdb": 428140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-18",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_vampire_2018",
+  "title": "Beautiful Vampire",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65256433",
+    "imdb": "tt9089908",
+    "tmdb": 538235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

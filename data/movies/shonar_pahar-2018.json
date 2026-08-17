@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shonar_pahar_2018",
+  "title": "Shonar Pahar",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768436",
+    "imdb": "tt8347882",
+    "tmdb": 543646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_idol_2018",
+  "title": "The Idol",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85807511",
+    "imdb": "tt6976274",
+    "tmdb": 567370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 84
+}

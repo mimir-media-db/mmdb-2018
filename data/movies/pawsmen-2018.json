@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pawsmen_2018",
+  "title": "Paws-Men",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56272562",
+    "imdb": "tt8561672",
+    "tmdb": 559045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-11"
+}

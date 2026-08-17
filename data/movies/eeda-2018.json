@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eeda_2018",
+  "title": "Eeda",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43017753",
+    "imdb": "tt7477108",
+    "tmdb": 496321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-05"
+}

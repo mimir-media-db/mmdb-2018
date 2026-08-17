@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_world_2018",
+  "title": "Future World",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27780063",
+    "imdb": "tt5737536",
+    "tmdb": 411135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-25",
+  "runtime_minutes": 90
+}

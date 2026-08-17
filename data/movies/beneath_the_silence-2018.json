@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_the_silence_2018",
+  "title": "Beneath the Silence",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96634127",
+    "imdb": "tt5805058",
+    "tmdb": 424972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 110
+}

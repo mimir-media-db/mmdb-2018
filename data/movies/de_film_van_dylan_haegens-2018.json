@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_film_van_dylan_haegens_2018",
+  "title": "De Film van Dylan Haegens",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55361709",
+    "imdb": "tt8161554",
+    "tmdb": 540632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-16",
+  "runtime_minutes": 81
+}
