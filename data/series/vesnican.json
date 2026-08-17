@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_vesnican",
+  "title": "Vesnican",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102391344",
+    "imdb": "tt9099936"
+  },
+  "last_updated": "2026-08-17"
+}
