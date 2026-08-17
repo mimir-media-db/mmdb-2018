@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_living_biblically",
+  "title": "Living Biblically",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30608098",
+    "imdb": "tt1048176",
+    "tmdb": 77005
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

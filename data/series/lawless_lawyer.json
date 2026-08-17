@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lawless_lawyer",
+  "title": "Lawless Lawyer",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q50716289",
+    "imdb": "tt8160178",
+    "tmdb": 78796
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

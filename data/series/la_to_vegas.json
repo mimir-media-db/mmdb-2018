@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_to_vegas",
+  "title": "LA to Vegas",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30638969",
+    "imdb": "tt6484002",
+    "tmdb": 71736
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

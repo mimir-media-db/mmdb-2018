@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_like",
+  "title": "Like",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51329551",
+    "imdb": "tt9001656",
+    "tmdb": 82282
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 96
+}

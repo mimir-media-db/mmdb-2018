@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vall",
+  "title": "La Vall",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56665594",
+    "imdb": "tt9102876",
+    "tmdb": 88245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

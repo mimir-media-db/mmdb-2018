@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_jefa_del_campeon",
+  "title": "La jefa del campeón",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q52360514",
+    "imdb": "tt8489522",
+    "tmdb": 97064
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 51
+}

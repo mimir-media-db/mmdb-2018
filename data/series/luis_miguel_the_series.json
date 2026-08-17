@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_luis_miguel_the_series",
+  "title": "Luis Miguel: The Series",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q30007163",
+    "imdb": "tt8045690",
+    "tmdb": 79008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

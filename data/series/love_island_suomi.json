@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_island_suomi",
+  "title": "Love Island Suomi",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65239199",
+    "imdb": "tt9060298",
+    "tmdb": 233707
+  },
+  "last_updated": "2026-08-17"
+}

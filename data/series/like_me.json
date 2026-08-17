@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_like_me",
+  "title": "Like Me",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131419935"
+  },
+  "last_updated": "2026-08-17"
+}

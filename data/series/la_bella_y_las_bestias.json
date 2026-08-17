@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_bella_y_las_bestias",
+  "title": "La bella y las bestias",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30041952",
+    "imdb": "tt8482122",
+    "tmdb": 80241
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

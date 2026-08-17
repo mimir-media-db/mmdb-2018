@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_of_a_mistress",
+  "title": "Life of a Mistress",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104839761",
+    "imdb": "tt5975446",
+    "tmdb": 97409
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}

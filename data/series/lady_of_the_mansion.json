@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lady_of_the_mansion",
+  "title": "Lady of the Mansion",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61063867",
+    "imdb": "tt20116592",
+    "tmdb": 294590
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_bastardos",
+  "title": "Los Bastardos",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56561448",
+    "imdb": "tt21254106",
+    "tmdb": 102998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 247
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_defense",
+  "title": "The Last Defense",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56277534",
+    "imdb": "tt8300932",
+    "tmdb": 80130
+  },
+  "last_updated": "2026-08-17"
+}

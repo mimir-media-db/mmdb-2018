@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_reina_de_franklin",
+  "title": "La reina de Franklin",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55560709",
+    "imdb": "tt9651844",
+    "tmdb": 99075
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_sentence",
+  "title": "Life Sentence",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30021155",
+    "imdb": "tt6088922",
+    "tmdb": 72001
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

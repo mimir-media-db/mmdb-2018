@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_live",
+  "title": "Live",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q42778231",
+    "imdb": "tt7976532",
+    "tmdb": 77283
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

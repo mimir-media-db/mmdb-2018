@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_swordship",
+  "title": "The Lost Swordship",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48935424",
+    "tmdb": 82470
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

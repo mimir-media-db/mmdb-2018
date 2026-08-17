@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_fuyao",
+  "title": "Legend of Fuyao",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q39054904",
+    "imdb": "tt8811032",
+    "tmdb": 76814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 60
+}

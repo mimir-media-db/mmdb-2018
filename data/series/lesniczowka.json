@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lesniczowka",
+  "title": "Lesniczówka",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56328836",
+    "imdb": "tt8171352",
+    "tmdb": 84242
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 409
+}

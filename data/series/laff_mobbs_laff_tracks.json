@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_laff_mobbs_laff_tracks",
+  "title": "Laff Mobb's Laff Tracks",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56825127",
+    "imdb": "tt7286488",
+    "tmdb": 76118
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 38
+}
