@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nappily_ever_after_2018",
+  "title": "Nappily Ever After",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44638200",
+    "imdb": "tt0365545",
+    "tmdb": 519035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 98
+}

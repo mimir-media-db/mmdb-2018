@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ngk_2018",
+  "title": "NGK",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50825957",
+    "imdb": "tt8094252",
+    "tmdb": 532869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

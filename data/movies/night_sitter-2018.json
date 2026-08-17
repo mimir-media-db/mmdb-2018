@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_sitter_2018",
+  "title": "The Night Sitter",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031282",
+    "imdb": "tt6942194",
+    "tmdb": 496282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

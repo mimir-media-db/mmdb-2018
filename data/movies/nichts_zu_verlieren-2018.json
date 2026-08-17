@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nichts_zu_verlieren_2018",
+  "title": "Nichts zu verlieren",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54815999",
+    "imdb": "tt7225352",
+    "tmdb": 483263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 89
+}

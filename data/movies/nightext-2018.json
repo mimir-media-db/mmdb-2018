@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightext_2018",
+  "title": "Night/Ext",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56281825",
+    "imdb": "tt8526164",
+    "tmdb": 542419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

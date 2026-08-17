@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_non_e_mai_passato_2018",
+  "title": "Non è mai passato",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29022329",
+    "imdb": "tt6498832",
+    "tmdb": 460428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 20
+}
