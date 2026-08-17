@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casos_complejos_2018",
+  "title": "Casos complejos",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123510550",
+    "imdb": "tt10622212",
+    "tmdb": 559750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 81
+}

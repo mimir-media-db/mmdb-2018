@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciro_y_yo_2018",
+  "title": "Ciro y yo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61930321",
+    "imdb": "tt7873992",
+    "tmdb": 509729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 107
+}

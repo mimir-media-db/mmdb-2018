@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_called_macau_2018",
+  "title": "A City Called Macau",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65059362",
+    "imdb": "tt9198974",
+    "tmdb": 497612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-12",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cabin_2018",
+  "title": "The Cabin",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51519442",
+    "imdb": "tt5963066",
+    "tmdb": 566556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-04"
+}

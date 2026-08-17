@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chubut_libertad_y_tierra_2018",
+  "title": "Chubut, libertad y tierra",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76762886",
+    "imdb": "tt10670592",
+    "tmdb": 606922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 128
+}

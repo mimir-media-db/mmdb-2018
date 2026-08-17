@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cellar_2018",
+  "title": "The Cellar",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97662928",
+    "imdb": "tt8507530",
+    "tmdb": 549555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 108
+}

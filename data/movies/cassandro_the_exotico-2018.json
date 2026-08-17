@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cassandro_the_exotico_2018",
+  "title": "Cassandro, the Exotico!",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113195830",
+    "imdb": "tt8159562",
+    "tmdb": 518720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-11",
+  "runtime_minutes": 73
+}

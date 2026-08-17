@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cliffside_2018",
+  "title": "Cliffside",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131548543",
+    "imdb": "tt8864952"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-20",
+  "runtime_minutes": 12
+}

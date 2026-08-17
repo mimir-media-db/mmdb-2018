@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_concerto_of_the_bully_2018",
+  "title": "Concerto of the Bully",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55698332",
+    "imdb": "tt7762772",
+    "tmdb": 498363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-10"
+}

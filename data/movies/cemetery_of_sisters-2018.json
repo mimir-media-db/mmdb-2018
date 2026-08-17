@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cemetery_of_sisters_2018",
+  "title": "The Cemetery of Sisters",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139838784",
+    "imdb": "tt8296128",
+    "tmdb": 716157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-01"
+}

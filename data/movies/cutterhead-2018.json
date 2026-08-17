@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cutterhead_2018",
+  "title": "Cutterhead",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31755273",
+    "imdb": "tt6562628",
+    "tmdb": 531489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-08",
+  "runtime_minutes": 84
+}
