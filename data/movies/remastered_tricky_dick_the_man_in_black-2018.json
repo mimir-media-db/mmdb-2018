@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remastered_tricky_dick_the_man_in_black_2018",
+  "title": "ReMastered: Tricky Dick & The Man in Black",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65464585",
+    "imdb": "tt9046556",
+    "tmdb": 553649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 58
+}

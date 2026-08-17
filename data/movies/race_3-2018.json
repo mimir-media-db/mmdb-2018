@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_race_3_2018",
+  "title": "Race 3",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302283",
+    "imdb": "tt7431594",
+    "tmdb": 496320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-15",
+  "runtime_minutes": 160
+}

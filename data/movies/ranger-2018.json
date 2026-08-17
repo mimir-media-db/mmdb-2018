@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranger_2018",
+  "title": "The Ranger",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65044606",
+    "imdb": "tt6598072",
+    "tmdb": 503751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-12"
+}

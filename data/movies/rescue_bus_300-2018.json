@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rescue_bus_300_2018",
+  "title": "Rescue Bus 300",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55702495",
+    "imdb": "tt8466044",
+    "tmdb": 558615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-05",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rough_draft_2018",
+  "title": "A Rough Draft",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35083659",
+    "imdb": "tt6270596",
+    "tmdb": 495601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-25",
+  "runtime_minutes": 116
+}

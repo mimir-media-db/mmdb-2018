@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_renegades_2018",
+  "title": "Renegades",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19897965",
+    "imdb": "tt4106376",
+    "tmdb": 335788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-28",
+  "runtime_minutes": 105
+}

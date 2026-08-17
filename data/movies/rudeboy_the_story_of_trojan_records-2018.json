@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rudeboy_the_story_of_trojan_records_2018",
+  "title": "Rudeboy: The Story of Trojan Records",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140360124",
+    "imdb": "tt8718814",
+    "tmdb": 545581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-16"
+}

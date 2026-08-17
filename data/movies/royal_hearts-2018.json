@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_royal_hearts_2018",
+  "title": "Royal Hearts",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55391435",
+    "imdb": "tt8060978",
+    "tmdb": 505723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-24",
+  "runtime_minutes": 84
+}
