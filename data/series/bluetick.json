@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bluetick",
+  "title": "Bluetick",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55718358",
+    "imdb": "tt12257736",
+    "tmdb": 87695
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

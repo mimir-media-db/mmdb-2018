@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bobcat_goldthwaits_misfits_monsters",
+  "title": "Bobcat Goldthwait's Misfits & Monsters",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30642826",
+    "imdb": "tt6957316",
+    "tmdb": 80286
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

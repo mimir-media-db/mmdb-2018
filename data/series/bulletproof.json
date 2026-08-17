@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bulletproof",
+  "title": "Bulletproof",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55103874",
+    "imdb": "tt8038720",
+    "tmdb": 79412
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bureau_of_magical_things",
+  "title": "The Bureau of Magical Things",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q42322962",
+    "imdb": "tt7153034",
+    "tmdb": 82791
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

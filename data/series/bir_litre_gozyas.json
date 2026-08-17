@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bir_litre_gozyas",
+  "title": "Bir Litre Gözyaşı",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61071543",
+    "imdb": "tt9048998",
+    "tmdb": 82621
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

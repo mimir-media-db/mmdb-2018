@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barry",
+  "title": "Barry",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q26812664",
+    "imdb": "tt5348176",
+    "tmdb": 73107
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}
