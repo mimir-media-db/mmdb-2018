@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_epistrofi",
+  "title": "I epistrofi",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q59065535",
+    "imdb": "tt9034576",
+    "tmdb": 87338
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 162
+}

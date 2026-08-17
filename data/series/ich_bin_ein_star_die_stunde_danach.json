@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ich_bin_ein_star_die_stunde_danach",
+  "title": "Ich bin ein Star – Die Stunde danach",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q76754285",
+    "imdb": "tt9850382",
+    "tmdb": 98259
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 116
+}

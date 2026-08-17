@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_i_picked_up_a_celebrity_on_the_street",
+  "title": "I Picked Up a Celebrity on the Street",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q61091383",
+    "imdb": "tt9108792",
+    "tmdb": 84772
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

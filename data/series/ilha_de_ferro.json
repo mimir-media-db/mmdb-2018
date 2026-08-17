@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ilha_de_ferro",
+  "title": "Ilha de Ferro",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q58626779",
+    "imdb": "tt8949480",
+    "tmdb": 84104
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}
