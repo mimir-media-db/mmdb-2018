@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gulperi",
+  "title": "Gülperi",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60998434",
+    "imdb": "tt8694246",
+    "tmdb": 82345
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

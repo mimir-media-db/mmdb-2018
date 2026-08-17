@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gynaika_horis_onoma",
+  "title": "Gynaika horis onoma",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q58003496",
+    "imdb": "tt9030514",
+    "tmdb": 93764
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 348
+}

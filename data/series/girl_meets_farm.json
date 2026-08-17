@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_girl_meets_farm",
+  "title": "Girl Meets Farm",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55392099",
+    "imdb": "tt8510610",
+    "tmdb": 80714
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

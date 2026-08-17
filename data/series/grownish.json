@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grownish",
+  "title": "Grown-ish",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39074045",
+    "imdb": "tt7018644",
+    "tmdb": 71885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 105
+}

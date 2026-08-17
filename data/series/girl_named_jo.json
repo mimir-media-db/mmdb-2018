@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_girl_named_jo",
+  "title": "A Girl Named Jo",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q110454951",
+    "imdb": "tt8447746",
+    "tmdb": 80575
+  },
+  "last_updated": "2026-08-17"
+}

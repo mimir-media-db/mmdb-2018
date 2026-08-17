@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_guardian",
+  "title": "Guardian",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48926521",
+    "imdb": "tt8551028",
+    "tmdb": 80837
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

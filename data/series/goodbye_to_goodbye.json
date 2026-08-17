@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_goodbye_to_goodbye",
+  "title": "Goodbye to Goodbye",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48817993",
+    "imdb": "tt8409646",
+    "tmdb": 79703
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

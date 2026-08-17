@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_generi",
+  "title": "The Generi",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55832256",
+    "imdb": "tt8499164",
+    "tmdb": 80112
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
