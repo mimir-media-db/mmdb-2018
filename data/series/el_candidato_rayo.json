@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_candidato_rayo",
+  "title": "El candidato Rayo",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q54152357",
+    "imdb": "tt8463586",
+    "tmdb": 101064
+  },
+  "last_updated": "2026-08-17"
+}

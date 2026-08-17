@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_egenland",
+  "title": "Egenland",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64590743",
+    "imdb": "tt8414486"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

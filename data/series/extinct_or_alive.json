@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extinct_or_alive",
+  "title": "Extinct or Alive",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q61806605",
+    "imdb": "tt8537104",
+    "tmdb": 80301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

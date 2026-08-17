@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_everything_sucks",
+  "title": "Everything Sucks!",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q39070182",
+    "imdb": "tt7078710",
+    "tmdb": 76438
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_excursoes_air_lino",
+  "title": "Excursões Air Lino",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q48873194",
+    "imdb": "tt7564130",
+    "tmdb": 76090
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

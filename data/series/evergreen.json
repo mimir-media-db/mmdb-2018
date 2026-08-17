@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_evergreen",
+  "title": "Evergreen",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q43160464",
+    "imdb": "tt7981596",
+    "tmdb": 77319
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

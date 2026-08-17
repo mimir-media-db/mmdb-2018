@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_educando_a_nina",
+  "title": "Educando a Nina",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q49705101",
+    "imdb": "tt8138542",
+    "tmdb": 317114
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 106
+}

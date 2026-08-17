@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_elite",
+  "title": "Elite",
+  "start_year": 2018,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q53000974",
+    "imdb": "tt7134908",
+    "tmdb": 76669
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 64
+}

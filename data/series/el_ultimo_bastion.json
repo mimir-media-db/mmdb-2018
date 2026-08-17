@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_ultimo_bastion",
+  "title": "El último bastión",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q59565992",
+    "imdb": "tt13107608",
+    "tmdb": 119731
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

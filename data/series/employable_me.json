@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_employable_me",
+  "title": "Employable Me",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65041160",
+    "imdb": "tt9298048",
+    "tmdb": 78571
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}
