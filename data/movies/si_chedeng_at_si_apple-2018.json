@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_si_chedeng_at_si_apple_2018",
+  "title": "Si Chedeng at si Apple",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128929860",
+    "imdb": "tt8367050",
+    "tmdb": 486022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 87
+}

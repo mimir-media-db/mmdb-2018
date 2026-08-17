@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_score_a_film_music_documentary_2018",
+  "title": "SCORE: A Film Music Documentary",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28912378",
+    "imdb": "tt4207112",
+    "tmdb": 426410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-04"
+}

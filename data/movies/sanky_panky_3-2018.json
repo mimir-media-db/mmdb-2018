@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sanky_panky_3_2018",
+  "title": "Sanky Panky 3",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140033874",
+    "imdb": "tt5848992",
+    "tmdb": 407651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-29"
+}

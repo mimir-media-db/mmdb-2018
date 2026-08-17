@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_wars_episode_viii_the_last_jedi_2018",
+  "title": "Star Wars: Episode VIII – The Last Jedi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18486021",
+    "imdb": "tt2527336",
+    "tmdb": 181808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-05",
+  "runtime_minutes": 152
+}

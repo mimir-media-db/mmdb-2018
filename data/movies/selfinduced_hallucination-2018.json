@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selfinduced_hallucination_2018",
+  "title": "A Self-Induced Hallucination",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642154",
+    "imdb": "tt8846416",
+    "tmdb": 530074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-13",
+  "runtime_minutes": 67
+}

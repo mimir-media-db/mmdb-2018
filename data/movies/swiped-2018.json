@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swiped_2018",
+  "title": "Swiped",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65677536",
+    "imdb": "tt4867110",
+    "tmdb": 535437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-06"
+}

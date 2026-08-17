@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_deserters_or_the_never_ending_war_2018",
+  "title": "The Seven Deserters Or The Never Ending War",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60853782",
+    "imdb": "tt7459320",
+    "tmdb": 481959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-30",
+  "runtime_minutes": 98
+}

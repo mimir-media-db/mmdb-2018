@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sacudete_las_penas_2018",
+  "title": "Sacúdete las penas",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77899659",
+    "imdb": "tt7945596",
+    "tmdb": 518326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

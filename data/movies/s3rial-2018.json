@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_s3rial_2018",
+  "title": "S3RIAL",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68635812",
+    "imdb": "tt7304060"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-18"
+}

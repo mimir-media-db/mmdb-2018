@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schools_out_2018",
+  "title": "School's Out",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60704244",
+    "imdb": "tt7175992",
+    "tmdb": 475928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-31",
+  "runtime_minutes": 104
+}
