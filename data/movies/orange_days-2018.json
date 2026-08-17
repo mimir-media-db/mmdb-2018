@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orange_days_2018",
+  "title": "The Orange Days",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47168737",
+    "imdb": "tt9005376",
+    "tmdb": 545638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-11"
+}
