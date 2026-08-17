@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_where_stars_land",
+  "title": "Where Stars Land",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55694981",
+    "imdb": "tt8991740",
+    "tmdb": 82298
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

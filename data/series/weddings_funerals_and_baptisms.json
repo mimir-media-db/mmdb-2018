@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_weddings_funerals_and_baptisms",
+  "title": "Weddings, Funerals and Baptisms",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q70351594",
+    "imdb": "tt9335828",
+    "tmdb": 86531
+  },
+  "last_updated": "2026-08-17"
+}

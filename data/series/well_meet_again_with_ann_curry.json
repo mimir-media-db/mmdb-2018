@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_well_meet_again_with_ann_curry",
+  "title": "We'll Meet Again with Ann Curry",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48815727",
+    "imdb": "tt8103530",
+    "tmdb": 76154
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

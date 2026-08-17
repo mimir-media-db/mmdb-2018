@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_in_white",
+  "title": "The Woman in White",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48964996",
+    "imdb": "tt6036728",
+    "tmdb": 79012
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

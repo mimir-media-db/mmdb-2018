@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wtfock",
+  "title": "WtFock",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q58220975",
+    "imdb": "tt9599524",
+    "tmdb": 85213
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_witchs_love",
+  "title": "Witch's Love",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55767326",
+    "imdb": "tt8689936",
+    "tmdb": 80965
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

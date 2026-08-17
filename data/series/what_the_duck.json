@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_what_the_duck",
+  "title": "What the Duck",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q51311948",
+    "tmdb": 75886
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

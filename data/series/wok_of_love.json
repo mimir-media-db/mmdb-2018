@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wok_of_love",
+  "title": "Wok of Love",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q51472968",
+    "imdb": "tt8236528",
+    "tmdb": 78797
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

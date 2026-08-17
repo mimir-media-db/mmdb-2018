@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wolf",
+  "title": "Wolf",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60156204",
+    "imdb": "tt7146600",
+    "tmdb": 75365
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
