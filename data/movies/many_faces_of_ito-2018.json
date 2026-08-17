@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_many_faces_of_ito_2018",
+  "title": "The Many Faces of Ito",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55135960",
+    "imdb": "tt7138120",
+    "tmdb": 510014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 126
+}

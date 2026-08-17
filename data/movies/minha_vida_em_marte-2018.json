@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_minha_vida_em_marte_2018",
+  "title": "Minha Vida em Marte",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61002287",
+    "imdb": "tt8619812",
+    "tmdb": 564427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

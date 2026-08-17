@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahalia_melts_in_the_rain_2018",
+  "title": "Mahalia Melts in the Rain",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62277431",
+    "imdb": "tt8079450",
+    "tmdb": 581307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
