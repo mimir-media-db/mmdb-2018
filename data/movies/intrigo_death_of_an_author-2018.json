@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intrigo_death_of_an_author_2018",
+  "title": "Intrigo: Death of an Author",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57446553",
+    "imdb": "tt6341066",
+    "tmdb": 482564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 106
+}

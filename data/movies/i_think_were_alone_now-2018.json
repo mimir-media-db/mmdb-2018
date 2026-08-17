@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_think_were_alone_now_2018",
+  "title": "I Think We're Alone Now",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29841749",
+    "imdb": "tt6169694",
+    "tmdb": 451877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 93
+}
