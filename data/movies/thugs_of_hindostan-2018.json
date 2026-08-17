@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thugs_of_hindostan_2018",
+  "title": "Thugs of Hindostan",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38160453",
+    "imdb": "tt5970844",
+    "tmdb": 472138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transfert_2018",
+  "title": "Transfert",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108765679",
+    "imdb": "tt5070240",
+    "tmdb": 563953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}

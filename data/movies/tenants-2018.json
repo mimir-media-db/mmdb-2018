@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenants_2018",
+  "title": "The Tenants",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895113",
+    "imdb": "tt4876524",
+    "tmdb": 375791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-01",
+  "runtime_minutes": 88
+}

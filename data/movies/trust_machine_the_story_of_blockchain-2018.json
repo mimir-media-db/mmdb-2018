@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trust_machine_the_story_of_blockchain_2018",
+  "title": "Trust Machine: The Story of Blockchain",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126086647",
+    "imdb": "tt7407496",
+    "tmdb": 543208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-26"
+}

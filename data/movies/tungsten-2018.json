@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tungsten_2018",
+  "title": "Tungsten",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97276979",
+    "imdb": "tt6645182",
+    "tmdb": 507084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 79
+}

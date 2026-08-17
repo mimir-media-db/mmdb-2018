@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_total_dhamaal_2018",
+  "title": "Total Dhamaal",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7827995",
+    "imdb": "tt7639372",
+    "tmdb": 576121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-07"
+}

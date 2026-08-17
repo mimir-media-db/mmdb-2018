@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ted_show_me_love_2018",
+  "title": "Ted: Show Me Love",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47034689",
+    "imdb": "tt6204018",
+    "tmdb": 493443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-03"
+}

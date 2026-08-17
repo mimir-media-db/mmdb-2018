@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tagalong_the_devil_fish_2018",
+  "title": "The Tag-Along: The Devil Fish",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48903530",
+    "imdb": "tt9283056",
+    "tmdb": 565428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-23",
+  "runtime_minutes": 114
+}

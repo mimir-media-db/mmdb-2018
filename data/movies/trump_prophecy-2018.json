@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trump_prophecy_2018",
+  "title": "The Trump Prophecy",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55391507",
+    "imdb": "tt8235296",
+    "tmdb": 548887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-02"
+}

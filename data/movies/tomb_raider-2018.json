@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tomb_raider_2018",
+  "title": "Tomb Raider",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28489891",
+    "imdb": "tt1365519",
+    "tmdb": 338970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-07",
+  "runtime_minutes": 118
+}

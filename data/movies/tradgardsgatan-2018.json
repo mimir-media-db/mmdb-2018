@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tradgardsgatan_2018",
+  "title": "Trädgårdsgatan",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77809895",
+    "imdb": "tt4675986",
+    "tmdb": 498178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-03"
+}
