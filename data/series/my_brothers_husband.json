@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_brothers_husband",
+  "title": "My Brother’s Husband",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q111927724",
+    "imdb": "tt7711774",
+    "tmdb": 80997
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

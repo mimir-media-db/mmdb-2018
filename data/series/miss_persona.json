@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_persona",
+  "title": "Miss Persona",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110995794",
+    "imdb": "tt9816118",
+    "tmdb": 136468
+  },
+  "last_updated": "2026-08-17"
+}

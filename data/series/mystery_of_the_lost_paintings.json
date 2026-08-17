@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mystery_of_the_lost_paintings",
+  "title": "Mystery of the Lost Paintings",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q55833296",
+    "imdb": "tt8621358",
+    "tmdb": 103834
+  },
+  "last_updated": "2026-08-17"
+}

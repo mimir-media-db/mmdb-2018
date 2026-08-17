@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miracle_we_met",
+  "title": "The Miracle We Met",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48518346",
+    "imdb": "tt8083950",
+    "tmdb": 78446
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_only_one",
+  "title": "My Only One",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55737412",
+    "imdb": "tt8884460",
+    "tmdb": 82063
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 106
+}

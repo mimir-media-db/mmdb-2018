@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_max_maestro",
+  "title": "Max & Maestro",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q56242780"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_misty",
+  "title": "Misty",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47073600",
+    "imdb": "tt7890244",
+    "tmdb": 76715
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

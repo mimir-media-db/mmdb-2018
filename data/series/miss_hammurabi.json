@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_hammurabi",
+  "title": "Miss Hammurabi",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47488354",
+    "imdb": "tt8090388",
+    "tmdb": 79342
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

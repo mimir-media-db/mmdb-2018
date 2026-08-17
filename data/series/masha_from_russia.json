@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_masha_from_russia",
+  "title": "Masha from Russia",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106289636",
+    "imdb": "tt8395146",
+    "tmdb": 298916
+  },
+  "last_updated": "2026-08-17"
+}

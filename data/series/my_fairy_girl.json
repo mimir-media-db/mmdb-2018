@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_fairy_girl",
+  "title": "My Fairy Girl",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55708401",
+    "imdb": "tt9520294",
+    "tmdb": 84277
+  },
+  "last_updated": "2026-08-17"
+}

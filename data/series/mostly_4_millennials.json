@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mostly_4_millennials",
+  "title": "Mostly 4 Millennials",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30646571",
+    "imdb": "tt7262218",
+    "tmdb": 80810
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

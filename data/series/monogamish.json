@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monogamish",
+  "title": "Monogamish",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q50329101",
+    "imdb": "tt8541270",
+    "tmdb": 78545
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

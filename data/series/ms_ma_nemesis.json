@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_ma_nemesis",
+  "title": "Ms. Ma, Nemesis",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q56283735",
+    "imdb": "tt9064400",
+    "tmdb": 82658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

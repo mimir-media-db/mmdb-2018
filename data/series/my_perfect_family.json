@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_perfect_family",
+  "title": "My Perfect Family",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48851387",
+    "imdb": "tt7885292",
+    "tmdb": 79101
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 94
+}

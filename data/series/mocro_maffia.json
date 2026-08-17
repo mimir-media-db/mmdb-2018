@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mocro_maffia",
+  "title": "Mocro Maffia",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58051925",
+    "imdb": "tt8810204",
+    "tmdb": 83062
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 45
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_story_for_you",
+  "title": "My Story for You",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39054901",
+    "imdb": "tt6771842",
+    "tmdb": 80119
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

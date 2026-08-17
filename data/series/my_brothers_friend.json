@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_brothers_friend",
+  "title": "My Brother's Friend",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55524309",
+    "imdb": "tt8647864",
+    "tmdb": 92729
+  },
+  "last_updated": "2026-08-17"
+}

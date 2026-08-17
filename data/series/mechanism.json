@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mechanism",
+  "title": "The Mechanism",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q30041175",
+    "imdb": "tt6873658",
+    "tmdb": 76954
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

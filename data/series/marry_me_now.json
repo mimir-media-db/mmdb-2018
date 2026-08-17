@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_marry_me_now",
+  "title": "Marry Me Now",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47073175",
+    "imdb": "tt8066184",
+    "tmdb": 78052
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

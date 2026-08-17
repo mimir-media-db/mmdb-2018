@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_medal_of_honor",
+  "title": "Medal of Honor",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q57813956",
+    "imdb": "tt7440274",
+    "tmdb": 83109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

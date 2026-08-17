@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_justice",
+  "title": "Ms. Justice",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48761302",
+    "imdb": "tt8585862",
+    "tmdb": 78682
+  },
+  "last_updated": "2026-08-17"
+}

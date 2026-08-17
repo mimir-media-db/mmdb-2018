@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moscow_noir",
+  "title": "Moscow Noir",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60812784",
+    "imdb": "tt9011118",
+    "tmdb": 85192
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

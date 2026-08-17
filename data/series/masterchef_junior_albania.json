@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_junior_albania",
+  "title": "MasterChef Junior Albania",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55074933"
+  },
+  "last_updated": "2026-08-17"
+}
