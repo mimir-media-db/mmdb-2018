@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_december_tale_or_smykolays_adventures_2018",
+  "title": "December tale or S.Mykolay's Adventures",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56366701",
+    "imdb": "tt8662114",
+    "tmdb": 567476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-13",
+  "runtime_minutes": 77
+}

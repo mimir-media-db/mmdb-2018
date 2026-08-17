@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_you_trust_this_computer_2018",
+  "title": "Do You Trust This Computer?",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51749250",
+    "imdb": "tt6152554",
+    "tmdb": 516503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-05",
+  "runtime_minutes": 78
+}

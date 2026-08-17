@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_leave_home_2018",
+  "title": "Don’t Leave Home",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63810329",
+    "imdb": "tt6842126",
+    "tmdb": 502167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-14",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadbeat_forever_2018",
+  "title": "Deadbeat Forever",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257060",
+    "tmdb": 564506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-22",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_and_the_dragonfly_2018",
+  "title": "The Devil And The Dragonfly",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543874",
+    "imdb": "tt5299666"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

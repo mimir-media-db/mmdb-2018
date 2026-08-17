@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_ringer_2018",
+  "title": "Dead Ringer",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41789617",
+    "imdb": "tt6864090",
+    "tmdb": 562229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-25"
+}

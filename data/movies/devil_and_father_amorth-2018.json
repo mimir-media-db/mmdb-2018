@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_and_father_amorth_2018",
+  "title": "The Devil and Father Amorth",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51278917",
+    "imdb": "tt6883152",
+    "tmdb": 457775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-20",
+  "runtime_minutes": 68
+}

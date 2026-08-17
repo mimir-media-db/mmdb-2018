@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deserved_happiness_2018",
+  "title": "Deserved Happiness",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125547303",
+    "imdb": "tt9648162",
+    "tmdb": 663681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 95
+}

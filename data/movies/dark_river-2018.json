@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_river_2018",
+  "title": "Dark River",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38821177",
+    "imdb": "tt5700176",
+    "tmdb": 429195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-11",
+  "runtime_minutes": 90
+}

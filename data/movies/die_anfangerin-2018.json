@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_anfangerin_2018",
+  "title": "Die Anfängerin",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23034663",
+    "imdb": "tt6032566",
+    "tmdb": 436316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-18"
+}

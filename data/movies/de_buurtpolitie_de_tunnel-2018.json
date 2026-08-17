@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_buurtpolitie_de_tunnel_2018",
+  "title": "De Buurtpolitie: De Tunnel",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50826480",
+    "imdb": "tt8183544",
+    "tmdb": 506179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-07"
+}
