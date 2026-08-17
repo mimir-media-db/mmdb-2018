@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_municipaux_ces_heros_2018",
+  "title": "Les municipaux, ces héros",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48759444",
+    "imdb": "tt7769530",
+    "tmdb": 499720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-25",
+  "runtime_minutes": 88
+}

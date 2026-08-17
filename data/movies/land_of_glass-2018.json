@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_glass_2018",
+  "title": "The Land of Glass",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49436483",
+    "imdb": "tt7470850",
+    "tmdb": 513686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-19",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_wizards_of_oz_2018",
+  "title": "Little Wizards of Oz",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86661501",
+    "imdb": "tt9081864",
+    "tmdb": 588631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 99
+}

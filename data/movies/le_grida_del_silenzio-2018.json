@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_grida_del_silenzio_2018",
+  "title": "Le grida del silenzio",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854080",
+    "imdb": "tt5562804",
+    "tmdb": 523452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-10"
+}

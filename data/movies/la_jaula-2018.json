@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_jaula_2018",
+  "title": "La jaula",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135720373",
+    "imdb": "tt8808166"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 85
+}

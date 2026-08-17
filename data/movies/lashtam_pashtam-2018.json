@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lashtam_pashtam_2018",
+  "title": "Lashtam Pashtam",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114722398",
+    "imdb": "tt6154834",
+    "tmdb": 540571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_witch_2018",
+  "title": "The Little Witch",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271436",
+    "imdb": "tt6153538",
+    "tmdb": 425194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-01",
+  "runtime_minutes": 103
+}

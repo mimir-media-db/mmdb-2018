@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_me_anyway_2018",
+  "title": "Love Me Anyway",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123013322",
+    "imdb": "tt4269256",
+    "tmdb": 427037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
