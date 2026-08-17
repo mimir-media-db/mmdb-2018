@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_women_vs_men_2_2018",
+  "title": "Women vs. Men 2",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47522598",
+    "imdb": "tt8005366",
+    "tmdb": 497723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-08",
+  "runtime_minutes": 75
+}

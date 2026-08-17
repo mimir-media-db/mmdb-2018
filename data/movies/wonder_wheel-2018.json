@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonder_wheel_2018",
+  "title": "Wonder Wheel",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703144",
+    "imdb": "tt5825380",
+    "tmdb": 429189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-11",
+  "runtime_minutes": 101
+}

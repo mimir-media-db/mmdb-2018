@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wendy_2_freundschaft_fur_immer_2018",
+  "title": "Wendy 2 - Freundschaft für immer",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49765203",
+    "imdb": "tt7119170",
+    "tmdb": 497737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-22",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wont_you_be_my_neighbor_2018",
+  "title": "Won't You Be My Neighbor?",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52151494",
+    "imdb": "tt7681902",
+    "tmdb": 490003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-29"
+}
