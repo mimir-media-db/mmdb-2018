@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_recuperando_a_mi_ex_2018",
+  "title": "Recuperando a mi Ex",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56886940",
+    "imdb": "tt5863566",
+    "tmdb": 548176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 95
+}

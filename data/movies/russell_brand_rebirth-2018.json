@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_russell_brand_rebirth_2018",
+  "title": "Russell Brand: Re:Birth",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59551574",
+    "imdb": "tt9349942",
+    "tmdb": 566674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

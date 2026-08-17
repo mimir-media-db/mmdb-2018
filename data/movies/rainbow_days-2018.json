@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rainbow_days_2018",
+  "title": "Rainbow Days",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50821735",
+    "imdb": "tt7493804",
+    "tmdb": 494082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

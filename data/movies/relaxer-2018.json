@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_relaxer_2018",
+  "title": "Relaxer",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58814603",
+    "imdb": "tt7952920",
+    "tmdb": 502173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

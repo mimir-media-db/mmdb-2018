@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rx_100_2018",
+  "title": "RX 100",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55392291",
+    "imdb": "tt8665746",
+    "tmdb": 535369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
