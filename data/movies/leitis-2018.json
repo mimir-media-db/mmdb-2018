@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leitis_2018",
+  "title": "Leitis",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59220170",
+    "imdb": "tt8677920",
+    "tmdb": 535775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 42
+}

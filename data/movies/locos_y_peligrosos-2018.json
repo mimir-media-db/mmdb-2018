@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_locos_y_peligrosos_2018",
+  "title": "Locos y Peligrosos",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28663411",
+    "imdb": "tt5231936",
+    "tmdb": 736855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 93
+}

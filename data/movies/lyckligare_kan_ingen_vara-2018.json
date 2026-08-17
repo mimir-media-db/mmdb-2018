@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lyckligare_kan_ingen_vara_2018",
+  "title": "Lyckligare kan ingen vara",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60970651",
+    "imdb": "tt9266608",
+    "tmdb": 569950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 113
+}

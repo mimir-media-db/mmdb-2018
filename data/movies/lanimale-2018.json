@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lanimale_2018",
+  "title": "L’Animale",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29569570",
+    "imdb": "tt6169920",
+    "tmdb": 466673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}
