@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hubert_et_fanny",
+  "title": "Hubert et Fanny",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55597239",
+    "imdb": "tt6885366",
+    "tmdb": 76170
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

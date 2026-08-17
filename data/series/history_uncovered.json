@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_history_uncovered",
+  "title": "History Uncovered",
+  "start_year": 2018,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q125209761",
+    "imdb": "tt9740434",
+    "tmdb": 93573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 16
+}

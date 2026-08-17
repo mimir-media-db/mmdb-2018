@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hide_and_seek",
+  "title": "Hide and Seek",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55731227",
+    "imdb": "tt8769302",
+    "tmdb": 81745
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

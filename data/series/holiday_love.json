@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday_love",
+  "title": "Holiday Love",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q133817162",
+    "imdb": "tt7701724",
+    "tmdb": 85669
+  },
+  "last_updated": "2026-08-17"
+}

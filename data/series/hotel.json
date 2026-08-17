@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel",
+  "title": "Hotel",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q37813605",
+    "imdb": "tt7855426",
+    "tmdb": 88320
+  },
+  "last_updated": "2026-08-17"
+}

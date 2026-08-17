@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hippocrate",
+  "title": "Hippocrate",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60849545",
+    "imdb": "tt9350920",
+    "tmdb": 84363
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

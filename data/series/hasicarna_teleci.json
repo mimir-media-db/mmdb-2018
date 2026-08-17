@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hasicarna_teleci",
+  "title": "Hasicárna Telecí",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102390519",
+    "imdb": "tt9099708",
+    "tmdb": 87973
+  },
+  "last_updated": "2026-08-17"
+}

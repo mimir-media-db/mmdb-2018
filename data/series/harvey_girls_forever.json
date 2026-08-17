@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harvey_girls_forever",
+  "title": "Harvey Girls Forever!",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q48731483",
+    "imdb": "tt7758552",
+    "tmdb": 80592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

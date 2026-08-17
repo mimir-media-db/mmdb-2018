@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_herzkinomarchen",
+  "title": "Herzkino.Märchen",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104168334",
+    "imdb": "tt9442326"
+  },
+  "last_updated": "2026-08-17"
+}

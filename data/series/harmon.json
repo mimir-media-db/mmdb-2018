@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harmon",
+  "title": "Harmon",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47791091",
+    "imdb": "tt7930816",
+    "tmdb": 77434
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
