@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_mon_pays_fabrique_des_armes_2018",
+  "title": "Mon pays fabrique des armes",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60848525"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-01"
+}

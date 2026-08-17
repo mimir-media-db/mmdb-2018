@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mchelper_3_2018_2018",
+  "title": "MC-Helper 3 (2018)",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113382437",
+    "imdb": "tt9385046",
+    "tmdb": 582536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-05",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_may_the_lord_be_with_us_2018",
+  "title": "May the Lord Be with Us",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33106240",
+    "imdb": "tt6848414",
+    "tmdb": 524578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-23",
+  "runtime_minutes": 77
+}

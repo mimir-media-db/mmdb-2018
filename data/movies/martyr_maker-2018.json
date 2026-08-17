@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_martyr_maker_2018",
+  "title": "The Martyr Maker",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122945840",
+    "imdb": "tt5396646",
+    "tmdb": 603345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 90
+}

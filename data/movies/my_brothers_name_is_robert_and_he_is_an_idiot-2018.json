@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brothers_name_is_robert_and_he_is_an_idiot_2018",
+  "title": "My Brother's Name Is Robert and He Is an Idiot",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29606500",
+    "imdb": "tt3552348",
+    "tmdb": 493656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-22",
+  "runtime_minutes": 174
+}

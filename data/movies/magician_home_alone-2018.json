@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magician_home_alone_2018",
+  "title": "A Magician Home Alone",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64576668",
+    "imdb": "tt9842312"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-22",
+  "runtime_minutes": 5
+}

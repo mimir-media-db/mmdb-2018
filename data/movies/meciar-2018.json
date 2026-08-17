@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meciar_2018",
+  "title": "Mečiar",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63088424",
+    "imdb": "tt7390216",
+    "tmdb": 482743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-03",
+  "runtime_minutes": 89
+}

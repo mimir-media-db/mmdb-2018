@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mo_amer_the_vagabond_2018",
+  "title": "Mo Amer: The Vagabond",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100432",
+    "imdb": "tt9060526",
+    "tmdb": 550294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-08",
+  "runtime_minutes": 56
+}

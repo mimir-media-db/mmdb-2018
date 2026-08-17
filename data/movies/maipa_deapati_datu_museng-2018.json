@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maipa_deapati_datu_museng_2018",
+  "title": "Maipa Deapati & Datu' Museng",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109437173",
+    "imdb": "tt14908682",
+    "tmdb": 492068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-11",
+  "runtime_minutes": 118
+}

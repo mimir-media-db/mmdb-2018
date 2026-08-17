@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mandao_of_the_dead_2018",
+  "title": "Mandao of the Dead",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116213746",
+    "imdb": "tt7529360",
+    "tmdb": 563466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-11",
+  "runtime_minutes": 74
+}

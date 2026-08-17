@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mrs_claus_2018",
+  "title": "Mrs. Claus",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125548682",
+    "imdb": "tt6169934",
+    "tmdb": 516834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-03",
+  "runtime_minutes": 86
+}

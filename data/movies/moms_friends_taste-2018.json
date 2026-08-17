@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moms_friends_taste_2018",
+  "title": "Mom's Friend's Taste",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840454",
+    "tmdb": 853050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-28"
+}
