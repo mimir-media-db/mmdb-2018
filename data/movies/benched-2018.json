@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benched_2018",
+  "title": "Benched",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814728",
+    "imdb": "tt4779344",
+    "tmdb": 529694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

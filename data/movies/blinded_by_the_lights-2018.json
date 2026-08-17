@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_blinded_by_the_lights_2018",
+  "title": "Blinded By The Lights",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58226084",
+    "imdb": "tt6520930"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

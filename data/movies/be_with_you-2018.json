@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_with_you_2018",
+  "title": "Be With You",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47463966",
+    "imdb": "tt8092252",
+    "tmdb": 499028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 132
+}

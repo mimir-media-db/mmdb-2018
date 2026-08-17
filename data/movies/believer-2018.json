@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_believer_2018",
+  "title": "Believer",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47069744",
+    "imdb": "tt7689424",
+    "tmdb": 490001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 101
+}

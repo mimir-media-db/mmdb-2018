@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_the_good_times_2018",
+  "title": "Back to the Good Times",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48911081",
+    "imdb": "tt7827658",
+    "tmdb": 496497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
