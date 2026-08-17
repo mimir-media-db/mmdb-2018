@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_the_miracle_to_come_2018",
+  "title": "Waiting for the Miracle to Come",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60853109",
+    "imdb": "tt4444732",
+    "tmdb": 598456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
