@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_perdu_albert_2018",
+  "title": "J'ai perdu Albert",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55392250",
+    "imdb": "tt7517232",
+    "tmdb": 506421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}
