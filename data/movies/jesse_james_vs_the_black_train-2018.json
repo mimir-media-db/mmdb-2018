@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesse_james_vs_the_black_train_2018",
+  "title": "Jesse James vs. The Black Train",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65248811",
+    "imdb": "tt7790254",
+    "tmdb": 530161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 80
+}

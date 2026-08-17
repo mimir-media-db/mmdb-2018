@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_je_so_pazzo_2018",
+  "title": "Je so' pazzo",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114982156"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 73
+}
