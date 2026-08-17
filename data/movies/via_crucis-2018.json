@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_via_crucis_2018",
+  "title": "Vía crucis",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66002704",
+    "imdb": "tt6104324",
+    "tmdb": 898847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 97
+}

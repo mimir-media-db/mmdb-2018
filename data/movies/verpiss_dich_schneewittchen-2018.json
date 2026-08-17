@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verpiss_dich_schneewittchen_2018",
+  "title": "Verpiss Dich, Schneewittchen",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40219954",
+    "imdb": "tt5872472",
+    "tmdb": 427031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-29",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vaurien_2018",
+  "title": "Vaurien",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55600133",
+    "imdb": "tt7773704",
+    "tmdb": 533162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-19",
+  "runtime_minutes": 90
+}

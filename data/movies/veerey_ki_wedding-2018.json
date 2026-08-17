@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veerey_ki_wedding_2018",
+  "title": "Veerey Ki Wedding",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671820",
+    "imdb": "tt7262178",
+    "tmdb": 508287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-03-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viktoria_2018",
+  "title": "Viktoria",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17097929",
+    "imdb": "tt3400872",
+    "tmdb": 248142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-17",
+  "runtime_minutes": 155
+}
