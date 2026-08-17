@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_summer_nights_2018",
+  "title": "Hot Summer Nights",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20875660",
+    "imdb": "tt3416536",
+    "tmdb": 347866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-07-27",
+  "runtime_minutes": 120
+}

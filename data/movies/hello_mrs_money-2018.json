@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_mrs_money_2018",
+  "title": "Hello, Mrs. Money",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60990610",
+    "imdb": "tt8299800",
+    "tmdb": 551127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_soul_good_2018",
+  "title": "Hotel Soul Good",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63924613",
+    "imdb": "tt9130552",
+    "tmdb": 554502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 100
+}

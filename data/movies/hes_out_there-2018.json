@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hes_out_there_2018",
+  "title": "He's Out There",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703165",
+    "imdb": "tt4052050",
+    "tmdb": 431185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-09-14",
+  "runtime_minutes": 89
+}

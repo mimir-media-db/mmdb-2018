@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_wants_what_it_wants_2018",
+  "title": "The Heart Wants What It Wants",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58022613",
+    "imdb": "tt9046850",
+    "tmdb": 547498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-05"
+}

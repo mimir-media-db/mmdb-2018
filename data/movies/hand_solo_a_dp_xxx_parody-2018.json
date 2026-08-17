@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hand_solo_a_dp_xxx_parody_2018",
+  "title": "Hand Solo: A DP XXX Parody",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88890929",
+    "imdb": "tt8564384",
+    "tmdb": 527455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-26",
+  "runtime_minutes": 150
+}

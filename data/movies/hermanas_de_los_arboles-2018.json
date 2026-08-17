@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hermanas_de_los_arboles_2018",
+  "title": "Hermanas de los árboles",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106153792",
+    "imdb": "tt9649816",
+    "tmdb": 628991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 86
+}

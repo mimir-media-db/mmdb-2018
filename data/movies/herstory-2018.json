@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herstory_2018",
+  "title": "Herstory",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105965",
+    "imdb": "tt8574212",
+    "tmdb": 527436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-06-27",
+  "runtime_minutes": 121
+}

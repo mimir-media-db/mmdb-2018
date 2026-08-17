@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_go_lucky_2018",
+  "title": "Happy Go Lucky",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64822948",
+    "imdb": "tt8393918",
+    "tmdb": 546652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-04",
+  "runtime_minutes": 92
+}

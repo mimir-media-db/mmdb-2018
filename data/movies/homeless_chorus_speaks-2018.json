@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homeless_chorus_speaks_2018",
+  "title": "The Homeless Chorus Speaks",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135421897",
+    "imdb": "tt8362634",
+    "tmdb": 533063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-01",
+  "runtime_minutes": 57
+}
