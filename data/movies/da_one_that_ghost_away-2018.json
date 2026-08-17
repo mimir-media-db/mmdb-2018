@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_da_one_that_ghost_away_2018",
+  "title": "Da One That Ghost Away",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54621703",
+    "imdb": "tt8299306",
+    "tmdb": 518505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 120
+}

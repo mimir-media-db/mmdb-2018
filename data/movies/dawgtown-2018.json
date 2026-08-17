@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dawgtown_2018",
+  "title": "Dawgtown",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022610",
+    "imdb": "tt2816044",
+    "tmdb": 288282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

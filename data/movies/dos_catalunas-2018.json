@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dos_catalunas_2018",
+  "title": "Dos Cataluñas",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57415096",
+    "imdb": "tt8893608",
+    "tmdb": 549599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
