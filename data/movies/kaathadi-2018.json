@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaathadi_2018",
+  "title": "Kaathadi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959478",
+    "imdb": "tt7235958",
+    "tmdb": 412077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-02-23"
+}

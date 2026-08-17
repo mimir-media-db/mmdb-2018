@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krishna_tulasi_2018",
+  "title": "Krishna Tulasi",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96386367",
+    "imdb": "tt8034094",
+    "tmdb": 1577409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

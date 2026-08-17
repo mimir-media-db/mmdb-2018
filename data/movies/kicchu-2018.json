@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kicchu_2018",
+  "title": "Kicchu",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113398505",
+    "imdb": "tt8364998"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-05-04"
+}

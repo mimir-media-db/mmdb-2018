@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_2018",
+  "title": "The King",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39078694",
+    "imdb": "tt6775942",
+    "tmdb": 452226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-25",
+  "runtime_minutes": 107
+}

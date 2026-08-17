@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdom_how_fungi_made_our_world_2018",
+  "title": "The Kingdom: How fungi made our world",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67656699",
+    "imdb": "tt8254060",
+    "tmdb": 509250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 52
+}

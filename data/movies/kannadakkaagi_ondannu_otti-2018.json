@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kannadakkaagi_ondannu_otti_2018",
+  "title": "Kannadakkaagi Ondannu Otti",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895304",
+    "imdb": "tt7561860",
+    "tmdb": 1199137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

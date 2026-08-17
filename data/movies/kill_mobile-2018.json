@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_mobile_2018",
+  "title": "Kill Mobile",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60213251",
+    "imdb": "tt9408490",
+    "tmdb": 571432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-12-29",
+  "runtime_minutes": 90
+}
