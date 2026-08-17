@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_up_to_you_2018",
+  "title": "Up to You",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89009085",
+    "imdb": "tt10125986",
+    "tmdb": 592741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-13",
+  "runtime_minutes": 103
+}

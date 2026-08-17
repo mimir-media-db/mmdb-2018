@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_down_un_film_normale_2018",
+  "title": "Up & Down - Un film normale",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65038391",
+    "imdb": "tt8941070",
+    "tmdb": 555552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

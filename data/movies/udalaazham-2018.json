@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_udalaazham_2018",
+  "title": "Udalaazham",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77903103",
+    "imdb": "tt8924804",
+    "tmdb": 559683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}
