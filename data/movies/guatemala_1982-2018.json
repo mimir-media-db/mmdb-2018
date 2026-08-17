@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guatemala_1982_2018",
+  "title": "Guatemala 1982",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115632174",
+    "imdb": "tt8058986",
+    "tmdb": 671718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 115
+}

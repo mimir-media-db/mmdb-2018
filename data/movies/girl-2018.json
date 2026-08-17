@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_2018",
+  "title": "Girl",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51843955",
+    "imdb": "tt8254556",
+    "tmdb": 515916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-10-18",
+  "runtime_minutes": 105
+}

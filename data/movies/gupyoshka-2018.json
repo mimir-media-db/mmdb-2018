@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gupyoshka_2018",
+  "title": "Gupyoshka",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97369513",
+    "imdb": "tt9180358",
+    "tmdb": 511383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 79
+}

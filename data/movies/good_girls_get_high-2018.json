@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_girls_get_high_2018",
+  "title": "Good Girls Get High",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488803",
+    "imdb": "tt7688638",
+    "tmdb": 493062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

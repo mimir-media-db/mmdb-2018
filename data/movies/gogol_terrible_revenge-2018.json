@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gogol_terrible_revenge_2018",
+  "title": "Gogol. Terrible Revenge",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51996718",
+    "imdb": "tt8744094",
+    "tmdb": 479001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-08-30",
+  "runtime_minutes": 92
+}

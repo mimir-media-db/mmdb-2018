@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goldladen_sheep_the_sacred_mountain_2018",
+  "title": "The Gold-Laden Sheep & the Sacred Mountain",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642172",
+    "imdb": "tt5759656",
+    "tmdb": 557628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-11-04",
+  "runtime_minutes": 97
+}

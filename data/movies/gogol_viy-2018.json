@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gogol_viy_2018",
+  "title": "Gogol. Viy",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47005334",
+    "imdb": "tt7910444",
+    "tmdb": 469284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-04-05",
+  "runtime_minutes": 99
+}
