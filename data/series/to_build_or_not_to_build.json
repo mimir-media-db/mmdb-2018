@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_to_build_or_not_to_build",
+  "title": "To Build or Not to Build",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61781513",
+    "imdb": "tt9203074",
+    "tmdb": 91650
+  },
+  "last_updated": "2026-08-17"
+}

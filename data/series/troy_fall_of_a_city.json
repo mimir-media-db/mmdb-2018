@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_troy_fall_of_a_city",
+  "title": "Troy: Fall of a City",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28972003",
+    "imdb": "tt5103758",
+    "tmdb": 71181
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

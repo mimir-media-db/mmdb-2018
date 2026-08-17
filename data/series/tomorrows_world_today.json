@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tomorrows_world_today",
+  "title": "Tomorrow's World Today",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65090750",
+    "imdb": "tt8144760",
+    "tmdb": 235083
+  },
+  "last_updated": "2026-08-17"
+}

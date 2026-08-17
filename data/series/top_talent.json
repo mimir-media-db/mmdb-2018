@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_talent",
+  "title": "Top Talent",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65307819",
+    "imdb": "tt34385147",
+    "tmdb": 276206
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 50
+}

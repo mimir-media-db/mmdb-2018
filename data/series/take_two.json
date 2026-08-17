@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_take_two",
+  "title": "Take Two",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q46992834",
+    "imdb": "tt5612866",
+    "tmdb": 79928
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

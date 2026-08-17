@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_top_star_yoobaek",
+  "title": "Top Star Yoo-baek",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q57544234",
+    "imdb": "tt9159184",
+    "tmdb": 83733
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

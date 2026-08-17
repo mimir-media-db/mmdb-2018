@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_transformation_street",
+  "title": "Transformation Street",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q116780924",
+    "imdb": "tt7859318",
+    "tmdb": 83338
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_close",
+  "title": "This Close",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56275510",
+    "imdb": "tt8036816",
+    "tmdb": 76526
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tomorrow_men",
+  "title": "Tomorrow Men",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q56305513",
+    "imdb": "tt8265444",
+    "tmdb": 79422
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}
