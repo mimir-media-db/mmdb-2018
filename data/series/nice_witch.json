@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nice_witch",
+  "title": "Nice Witch",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q46915974",
+    "imdb": "tt8066214",
+    "tmdb": 77287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

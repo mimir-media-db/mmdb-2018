@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_no_easy_days",
+  "title": "No Easy Days",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q130342825",
+    "imdb": "tt4102726",
+    "tmdb": 84860
+  },
+  "last_updated": "2026-08-17"
+}

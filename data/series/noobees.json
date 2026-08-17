@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_noobees",
+  "title": "Noobees",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q56649246",
+    "imdb": "tt10763852",
+    "tmdb": 85828
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 120
+}

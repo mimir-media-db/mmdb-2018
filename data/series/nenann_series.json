@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nenann_series",
+  "title": "Nenann (séries(",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q132397056",
+    "imdb": "tt25753634"
+  },
+  "last_updated": "2026-08-17"
+}
