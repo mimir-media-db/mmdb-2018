@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aikuisen_naisen_joulukalenteri",
+  "title": "Aikuisen naisen joulukalenteri",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q65229058",
+    "imdb": "tt9322448",
+    "tmdb": 84937
+  },
+  "last_updated": "2026-08-17"
+}

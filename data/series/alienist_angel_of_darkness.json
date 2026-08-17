@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alienist_angel_of_darkness",
+  "title": "The Alienist: Angel of Darkness",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q27988195",
+    "imdb": "tt4604612",
+    "tmdb": 71769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

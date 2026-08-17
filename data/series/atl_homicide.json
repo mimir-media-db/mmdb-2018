@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_atl_homicide",
+  "title": "ATL Homicide",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55602974",
+    "imdb": "tt7152616",
+    "tmdb": 80721
+  },
+  "last_updated": "2026-08-17"
+}

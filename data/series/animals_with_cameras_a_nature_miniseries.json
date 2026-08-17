@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_animals_with_cameras_a_nature_miniseries",
+  "title": "Animals with Cameras, A Nature Miniseries",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110344633",
+    "imdb": "tt13258426",
+    "tmdb": 77248
+  },
+  "last_updated": "2026-08-17"
+}

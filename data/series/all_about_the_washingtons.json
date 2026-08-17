@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_about_the_washingtons",
+  "title": "All About The Washingtons",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55080338",
+    "imdb": "tt7661368",
+    "tmdb": 80309
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

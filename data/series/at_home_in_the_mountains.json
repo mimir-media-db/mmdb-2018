@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_at_home_in_the_mountains",
+  "title": "At Home in the Mountains",
+  "start_year": 2018,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q80930297",
+    "imdb": "tt7881666",
+    "tmdb": 85522
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

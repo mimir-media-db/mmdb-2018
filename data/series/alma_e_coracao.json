@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_alma_e_coracao",
+  "title": "Alma e Coração",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56350428",
+    "imdb": "tt8644570",
+    "tmdb": 158428
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 318
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_afflicted",
+  "title": "Afflicted",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56054858",
+    "imdb": "tt8792570",
+    "tmdb": 81521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

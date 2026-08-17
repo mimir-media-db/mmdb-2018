@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_are_you_human",
+  "title": "Are You Human?",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30287045",
+    "imdb": "tt7817966",
+    "tmdb": 72548
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

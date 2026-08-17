@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alexa_katie",
+  "title": "Alexa & Katie",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q30633884",
+    "imdb": "tt6916746",
+    "tmdb": 76874
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 39
+}
