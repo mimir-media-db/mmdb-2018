@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cola_de_mono_2018",
+  "title": "Cola de mono",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498453",
+    "imdb": "tt7761014",
+    "tmdb": 533109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 102
+}

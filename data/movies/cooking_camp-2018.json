@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cooking_camp_2018",
+  "title": "Cooking Camp",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31174211",
+    "imdb": "tt8517236",
+    "tmdb": 534374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_gone_to_poland_2018",
+  "title": "Children Gone to Poland",
+  "year": 2018,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61096288",
+    "imdb": "tt7391050",
+    "tmdb": 546657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2018-01-01",
+  "runtime_minutes": 78
+}
