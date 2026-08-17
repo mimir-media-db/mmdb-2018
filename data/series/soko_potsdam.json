@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soko_potsdam",
+  "title": "SOKO Potsdam",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q53700205",
+    "imdb": "tt8883700",
+    "tmdb": 82549
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 66
+}

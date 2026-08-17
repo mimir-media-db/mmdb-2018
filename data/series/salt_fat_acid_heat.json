@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_salt_fat_acid_heat",
+  "title": "Salt Fat Acid Heat",
+  "start_year": 2018,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q57262935",
+    "imdb": "tt8772088",
+    "tmdb": 83039
+  },
+  "last_updated": "2026-08-17"
+}

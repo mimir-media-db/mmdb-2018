@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_school",
+  "title": "School",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48041007",
+    "imdb": "tt7895530",
+    "tmdb": 79473
+  },
+  "last_updated": "2026-08-17"
+}

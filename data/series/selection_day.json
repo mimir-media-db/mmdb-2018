@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_selection_day",
+  "title": "Selection Day",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60243149",
+    "imdb": "tt8004628",
+    "tmdb": 84310
+  },
+  "last_updated": "2026-08-17"
+}

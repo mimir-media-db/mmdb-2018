@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_suvenir_iz_odessy",
+  "title": "Suvenir iz Odessy",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q56364875",
+    "imdb": "tt10204020",
+    "tmdb": 196952
+  },
+  "last_updated": "2026-08-17"
+}

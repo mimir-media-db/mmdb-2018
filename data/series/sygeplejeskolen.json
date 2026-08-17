@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sygeplejeskolen",
+  "title": "Sygeplejeskolen",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58002501",
+    "imdb": "tt8698084",
+    "tmdb": 83524
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 42
+}

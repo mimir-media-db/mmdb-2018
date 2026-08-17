@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sacred_games",
+  "title": "Sacred Games",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48727094",
+    "imdb": "tt6077448",
+    "tmdb": 79352
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

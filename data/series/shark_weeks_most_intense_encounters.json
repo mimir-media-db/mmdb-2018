@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_shark_weeks_most_intense_encounters",
+  "title": "Shark Week's Most Intense Encounters",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135624917"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_should_we_kiss_first",
+  "title": "Should We Kiss First?",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47353033",
+    "imdb": "tt7897044",
+    "tmdb": 76768
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

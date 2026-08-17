@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_shop",
+  "title": "The Shop",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62079624",
+    "imdb": "tt8755712",
+    "tmdb": 81187
+  },
+  "last_updated": "2026-08-17"
+}

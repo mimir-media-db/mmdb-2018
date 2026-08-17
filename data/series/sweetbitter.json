@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sweetbitter",
+  "title": "Sweetbitter",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48807890",
+    "imdb": "tt7563270",
+    "tmdb": 77032
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

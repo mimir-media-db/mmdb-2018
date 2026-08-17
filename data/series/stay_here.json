@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_stay_here",
+  "title": "Stay Here",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56245773",
+    "imdb": "tt8773338",
+    "tmdb": 81708
+  },
+  "last_updated": "2026-08-17"
+}

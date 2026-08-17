@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sjolyckan",
+  "title": "Sjölyckan",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q70337814",
+    "imdb": "tt5810860",
+    "tmdb": 78647
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

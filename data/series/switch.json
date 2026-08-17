@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_switch",
+  "title": "Switch",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47524594",
+    "imdb": "tt8078910",
+    "tmdb": 77735
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

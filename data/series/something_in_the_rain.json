@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_something_in_the_rain",
+  "title": "Something in the Rain",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47300881",
+    "imdb": "tt8078816",
+    "tmdb": 78385
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

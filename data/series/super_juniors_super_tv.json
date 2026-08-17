@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_juniors_super_tv",
+  "title": "Super Junior's Super TV",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48848960",
+    "imdb": "tt9106108",
+    "tmdb": 76667
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

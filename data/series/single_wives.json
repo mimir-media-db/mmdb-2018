@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_single_wives",
+  "title": "The Single Wives",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55392038",
+    "imdb": "tt8694342",
+    "tmdb": 80992
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

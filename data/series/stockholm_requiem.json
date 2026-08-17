@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stockholm_requiem",
+  "title": "Stockholm Requiem",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60823175",
+    "imdb": "tt8149662",
+    "tmdb": 82855
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

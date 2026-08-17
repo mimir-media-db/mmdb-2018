@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_smoking",
+  "title": "Smoking",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55808362",
+    "imdb": "tt8758778",
+    "tmdb": 81876
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_skam_nl",
+  "title": "Skam NL",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56355634",
+    "imdb": "tt8929792",
+    "tmdb": 82948
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

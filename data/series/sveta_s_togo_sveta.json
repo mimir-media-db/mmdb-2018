@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sveta_s_togo_sveta",
+  "title": "Sveta s togo sveta",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48953831",
+    "imdb": "tt9005060",
+    "tmdb": 76366
+  },
+  "last_updated": "2026-08-17"
+}

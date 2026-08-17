@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_step_up_high_water",
+  "title": "Step Up: High Water",
+  "start_year": 2018,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q48806663",
+    "imdb": "tt7369974",
+    "tmdb": 75379
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

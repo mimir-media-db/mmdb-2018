@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_short",
+  "title": "Short",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q47994645",
+    "imdb": "tt7968632",
+    "tmdb": 76956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

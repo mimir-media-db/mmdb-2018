@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_falls",
+  "title": "Star Falls",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q52159228",
+    "imdb": "tt7635308",
+    "tmdb": 78868
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}
